@@ -1,13 +1,17 @@
-\documentclass[11pt,a4paper,sans]{moderncv}
+
+% This is a latex template
+% pandoc resume.md -o resume.pdf --pdf-engine=xelatex --\documentclass[10pt,a4paper,sans]{moderncv}
+
+\documentclass[10pt,a4paper,sans]{moderncv}
 
 % moderncv themes
-\moderncvstyle{casual}  % Style options: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvstyle{banking}  % Style options: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 \moderncvcolor{blue}     % Color options: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
-\usepackage[scale=0.75]{geometry}
+\usepackage[scale=0.85]{geometry} % Reduced margins
+\setlength{\hintscolumnwidth}{2.5cm} % Adjust width of the hints column
 
 \providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}} % Tighten lists
 
 \name{${name}}{${title}}
 \address{${address}}{}{}
@@ -19,8 +23,8 @@
 \begin{document}
 
 \makecvtitle
+\vspace*{-4em} % reduce space between body and title
 
 $body$
 
 \end{document}
-
