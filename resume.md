@@ -7,8 +7,17 @@ github: guinn8
 linkedin: gavinguinn
 ---
 
-# Experience
+# Education
+
+## University of Calgary
+
+**Bachelor of Science in Computer Science**  
+**GPA:** 3.49/4.00  May 2018 - May 2022
+
+# Work Experience
+
 ## Firmware Engineer -- Simply Embedded
+
 - **Total Employment Period:** January 2021 - May 2024
 - **Full-time Employment:** July 11, 2022 - May 24, 2024
 - **IoT Wearable Project:**
@@ -38,16 +47,13 @@ linkedin: gavinguinn
   - England (London and Epworth): December 10, 2023 - December 16, 2023
 
 ## Retail Sales Staff - Camper’s Village
+
 - May 1, 2014 - July 1, 2021
 - **Customer Assistance:** Assisted customers in purchasing outdoor hard goods, from personalized multi-hour outfitting to quick assistance finding items.
 - **Product Knowledge:** Utilized product information provided by brands and representatives to offer detail-oriented assistance.
 - **Sales Goals:** Leveraged personal passion for hiking to develop strong customer relationships, consistently surpassing sales goals.
 
-# Education
-
-## University of Calgary
-**Bachelor of Science in Computer Science**  
-**GPA:** 3.49/4.00  May 2018 - May 2022
+# Other Experience
 
 - **President, Computer Science Undergraduate Society**  
   - September 1, 2020 - February 1, 2021
