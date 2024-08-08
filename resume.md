@@ -1,6 +1,6 @@
 ---
 name: Gavin Guinn
-address: Calgary, Canada
+address: 221 6 Ave SE, Calgary, Canada
 phone: (587) 889-9815
 email: gavinguinn1@gmail.com
 github: guinn8

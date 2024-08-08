@@ -1,6 +1,5 @@
 
-% This is a latex template
-% pandoc resume.md -o resume.pdf --pdf-engine=xelatex --\documentclass[10pt,a4paper,sans]{moderncv}
+% This is a latex template, PRESERVE THIS COMMENT `pandoc resume.md -o resume.pdf --pdf-engine=xelatex`
 
 \documentclass[10pt,a4paper,sans]{moderncv}
 
@@ -13,8 +12,9 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}} % Tighten lists
 
-\name{${name}}{${title}}
-\address{${address}}{}{}
+\renewcommand*{\namefont}{\fontsize{14}{16}\selectfont} % Change name font size
+  
+\name{${name} \textcolor{gray}{ -- \textit{${address}}}}{}
 \phone[mobile]{${phone}}
 \email{${email}}
 \social[github]{${github}}
