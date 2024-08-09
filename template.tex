@@ -3,56 +3,31 @@
 
 \documentclass[10pt,a4paper,sans]{moderncv}
 
-% moderncv themes
-\moderncvstyle[shortrules]{banking}  % Style options: 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{blue}     % Color options: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
-\usepackage[scale=0.9]{geometry} % Reduced margins
-
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}} % Tighten lists
-
-\renewcommand*{\namefont}{\fontsize{14}{16}\selectfont} % Change name font size
-
-
-\makeatletter
-\newlength{\baseletterheight}
-\setlength{\baseletterheight}{1ex} % Adjust as needed
-\makeatother
-
+\moderncvstyle[shortrules]{banking}
+\moderncvcolor{blue}
+\usepackage[scale=0.9]{geometry}
 \usepackage{etoolbox}
 
-\BeforeBeginEnvironment{verbatim}{\vspace{-1ex}}  % Reduce space before the code block
-\AfterEndEnvironment{verbatim}{\vspace{-1ex}}     % Reduce space after the code block
-
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}} % tight list
+\renewcommand*{\namefont}{\fontsize{14}{16}\selectfont} % font size
+\BeforeBeginEnvironment{verbatim}{\vspace{-1ex}} % Reduce space before the code block
+\AfterEndEnvironment{verbatim}{\vspace{-1ex}} % Reduce space after the code block
 
 \makeatletter
-
-\RenewDocumentCommand{\subsection}{sm}{%
-  \par\addvspace{0.75ex}%
-  \phantomsection{}%
+\RenewDocumentCommand{\subsection}{sm}{
+  \par\addvspace{0.75ex}% space before subsection
+  \phantomsection{}% reset the anchor for hyperrefs
   \addcontentsline{toc}{subsection}{#2}%
-  \if@left\else\if@fullrules\else%
-    \subsectionrule\fi\fi%
-  \strut\subsectionstyle{#2}%
-  \if@fullrules%
-    \subsectionrule%
-  \else\if@right\else%
-    \subsectionrule\fi\fi%
+  \strut\subsectionstyle{#2}% apply subsection style
+  \subsectionrule% apply subsection rule
   \par\nobreak\addvspace{0.5ex}\@afterheading}
 
-\RenewDocumentCommand{\section}{sm}{%
-  \par\addvspace{1.5ex}%
+\RenewDocumentCommand{\section}{sm}{
+  \par\addvspace{1.5ex}% space before section
   \phantomsection{}% reset the anchor for hyperrefs
   \addcontentsline{toc}{section}{#2}%
-  \if@left\else\if@fullrules\else\if@mixedrules\else%
-    \sectionrule\fi\fi\fi%
-  \strut\sectionstyle{#2}%
-  \if@fullrules%
-    \sectionrule%
-  \else\if@mixedrules%
-    \sectionrule%
-  \else\if@right\else%
-    \sectionrule\fi\fi\fi%
+  \strut\sectionstyle{#2}% apply section style
+  \sectionrule% apply section rule
   \par\nobreak\addvspace{0.5ex}\@afterheading}
 \makeatother
 
