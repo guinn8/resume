@@ -25,7 +25,7 @@ linkedin: gavinguinn
 - **Network Connectivity:** Addressed challenges with diverse cellular operators, especially network time and instability issues in the UK.
 - **Testing Automation:** Created a self-testing system for PCBA peripherals, automating device commissioning and ensuring readiness for shipment.
 - **Azure Debugging:** Used Azure and Python scripts to improve cloud-driven UI testing, developing extensive test cases with ChatGPT.
-- **Driver Development:** Developed drivers for sound (DMA), modem (AT commands over UART), touch and display (SPI), and secure element (I2C).
+- **Versatile Driver Development:** Developed and maintained device drivers for key peripherals including audio, display, touch, modem, and secure elements, ensuring robust and efficient hardware-software integration.
 - **Team Collaboration:** Coordinated with management and a global team across time zones.
 - **Time Management:** Delivered prototype hardware under tight deadlines.
 - **Remote Collaboration:** Used Jira, Bitbucket, and Jenkins for agile project management, version control, and continuous integration.
@@ -33,7 +33,7 @@ linkedin: gavinguinn
 - **Project Management:** Led a team of two university interns to successfully integrate an ST RFID reader evaluation board with an in-house development board, utilizing the onboard cellular modem for cloud data offloading.
 - **STM32 PCBA Development:** Designed and integrated STM32U5 PCBA with electrical engineers, using STM32Cube for project setup and peripheral communication.
 - **Firmware Debugging:** Implemented debug control with Jlink and GDB server, successfully flashing and debugging firmware on STM32U5 PCBA.
-- **I2C Communication with NXP Secure Element:** Enabled I2C communication with NXP secure element, utilizing serial debugging with a logic analyzer in collaboration with an electrical engineer.
+- **Advanced Debugging Techniques:** Utilized logic analyzers, oscilloscopes, and emulation tools like QEMU to debug and validate driver performance under various conditions.
 - **Middleware Porting and Build Management:** Ported supplier middleware and managed makefile build system for streamlined and consistent project builds.
 - **Hardware Collaboration:** Worked closely with Electrical Engineers to solve diverse problems including PCBA bring-up and hardware test automation.
 - **Hardware Debugging:** Utilized logic analyzers and oscilloscopes to troubleshoot difficult bugs, especially in facilitating communication with peripheral devices.
@@ -78,3 +78,13 @@ linkedin: gavinguinn
 - **Cluster Management:** Managed multi-day jobs on a research cluster using the SLURM scheduler.
 - **Parallel Programming:** Developed parallel code using OpenMP, addressing reentrancy issues with shared memory access between threads.
 - **Project Documentation:** [Aliquot Sequence Project](https://guinn8.github.io/aliquot/html/index.html)
+
+# Skills
+
+| **Programming Languages** | **Skills**                               | **Tools**                            |
+| ------------------------- | ---------------------------------------- | ------------------------------------ |
+| C, C++                    | Firmware Development, Driver Development | STM32Cube, Jlink, GDB                |
+| Python                    | Debugging, Automation Scripting          | Logic Analyzers, Oscilloscopes, QEMU |
+| Bash, Shell Scripting     | Build Automation, System Management      | Makefile, Jenkins, Bitbucket         |
+| SLURM, OpenMP             | Parallel Programming, Cluster Management | Research Cluster, HPC Tools          |
+| Git, GitHub               | Version Control, Collaboration           | Git, GitHub, Jira                    |
