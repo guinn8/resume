@@ -9,16 +9,18 @@ linkedin: gavinguinn
 
 # Education
 
-## University of Calgary
+## Bachelor of Science in Computer Science -- University of Calgary
 
-**Bachelor of Science in Computer Science**  
-**GPA:** 3.49/4.00  May 2018 - May 2022
+    May 2018 - May 2022
+
+**GPA:** 3.49/4.00  
 
 # Work Experience
 
 ## Firmware Engineer -- Simply Embedded
 
-- **Total Employment Period:** January 2021 - May 2024
+    Jan 2021 - May 2024
+
 - **Full-time Employment:** July 11, 2022 - May 24, 2024
 - **IoT Wearable Project:**
   - Network Connectivity: Addressed challenges with diverse cellular operators, especially network time and instability issues in the UK.
@@ -48,25 +50,30 @@ linkedin: gavinguinn
 
 ## Retail Sales Staff - Camper’s Village
 
-- May 1, 2014 - July 1, 2021
+    May 1, 2014 - July 1, 2021
+
 - **Customer Assistance:** Assisted customers in purchasing outdoor hard goods, from personalized multi-hour outfitting to quick assistance finding items.
 - **Product Knowledge:** Utilized product information provided by brands and representatives to offer detail-oriented assistance.
 - **Sales Goals:** Leveraged personal passion for hiking to develop strong customer relationships, consistently surpassing sales goals.
 
 # Other Experience
 
-- **President, Computer Science Undergraduate Society**  
-  - September 1, 2020 - February 1, 2021
-  - Coordinated a remote-first event with over 700 participants, awarding $15,000 in prize money.
-  - Adapted Event Format: Successfully pivoted from in-person to remote format, utilizing Discord for enrollment and communication.
-  - Efficient Judging Coordination: Managed the judging of 93 groups via Zoom within 2 hours with a meticulous plan.
-  - COVID-19 Navigation: Successfully navigated society activities and stakeholder communications through pandemic challenges.
-  - [Hackathon Link](https://calgary-hacks-2021.devpost.com/)
+## President -- Computer Science Undergraduate Society
 
-- **Undergraduate Research Project in Theoretical Computer Science**
-  - September 1, 2021 - April 1, 2022
-  - **Supervised Research:** Collaborated with Dr. Michael J. Jacobson on computational number theory, focusing on the statistical properties of Aliquot sequences.
-  - **High-Performance Computing:** Utilized 800GB of RAM and 80 threads on the university's bigmem research cluster to compute.
-  - **Algorithmic Improvements:** Implemented memory compression, enabling higher bounds in numerical computations.
-  - **Cluster Management:** Managed multi-day jobs on a research cluster using the SLURM scheduler.
-  - **[Project Documentation](https://guinn8.github.io/aliquot/html/index.html)**
+    Sept 1, 2020 - Feb 1, 2021
+
+- Coordinated a remote-first event with over 700 participants, awarding $15,000 in prize money.
+- Adapted Event Format: Successfully pivoted from in-person to remote format, utilizing Discord for enrollment and communication.
+- Efficient Judging Coordination: Managed the judging of 93 groups via Zoom within 2 hours with a meticulous plan.
+- COVID-19 Navigation: Successfully navigated society activities and stakeholder communications through pandemic challenges.
+- [Hackathon Link](https://calgary-hacks-2021.devpost.com/)
+
+## Project in Theoretical Computer Science -- NSERC Undergraduate Student Research Award
+
+    Sept 1, 2021 - Apr 1, 2022
+
+- **Supervised Research:** Collaborated with Dr. Michael J. Jacobson on computational number theory, focusing on the statistical properties of Aliquot sequences.
+- **High-Performance Computing:** Utilized 800GB of RAM and 80 threads on the university's bigmem research cluster to compute.
+- **Algorithmic Improvements:** Implemented memory compression, enabling higher bounds in numerical computations.
+- **Cluster Management:** Managed multi-day jobs on a research cluster using the SLURM scheduler.
+- **[Project Documentation](https://guinn8.github.io/aliquot/html/index.html)**
