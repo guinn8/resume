@@ -7,6 +7,10 @@ github: guinn8
 linkedin: gavinguinn
 ---
 
+# Profile
+
+Embedded Engineer with 3 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. Based in Calgary, Canada, and seeking opportunities locally, nationally, and internationally.
+
 # Education
 
 ## Bachelor of Science in Computer Science -- University of Calgary
@@ -21,22 +25,22 @@ linkedin: gavinguinn
 
     Jan 2021 - May 2024
 
-- **GUI Development:** Rendered MQTT messages into interfaces using LVGL widgets, sending responses to the cloud.
-- **Network Connectivity:** Addressed challenges with diverse cellular operators, especially network time and instability issues in the UK.
+- **Peripheral Driver Development**: Developed and maintained drivers for peripherals (audio, display, touch, modem, secure element, IMU) within a FreeRTOS environment, ensuring seamless hardware-software integration.
+- **Mentorship and Hiring:** Led the interview and selection process for five engineering interns, providing hands-on training in  firmware development and debugging to ensure they quickly became productive team members.
+- **Network Security:** Utilized TCP/IP stack and security protocols to manage secure communications, including certificate management. Developed OTA firmware updates as a key feature, ensuring reliable deployments over HTTPS.
+- **Client Engagement:** Excelled in client interactions, from cold conversations at tradeshows (CES 23/24) to in-depth meetings during international trips. Experienced in converting customer business needs to concrete development objectives.
+<!-- - **GUI Development:** Rendered MQTT messages into interfaces using LVGL widgets, sending responses to the cloud. -->
 - **Testing Automation:** Created a self-testing system for PCBA peripherals, automating device commissioning and ensuring readiness for shipment.
 <!-- - **Azure Debugging:** Used Azure and Python scripts to improve cloud-driven UI testing, developing extensive test cases with ChatGPT. -->
-- **Versatile Driver Development:** Developed and maintained device drivers for key peripherals including audio, display, touch, modem, and secure elements, ensuring robust and efficient hardware-software integration.
 <!-- - **Team Collaboration:** Coordinated with management and a global team across time zones. -->
 <!-- - **Time Management:** Delivered prototype hardware under tight deadlines. -->
 <!-- - **Remote Collaboration:** Used Jira, Bitbucket, and Jenkins for agile project management, version control, and continuous integration. -->
-- **Intern Mentorship:** Led the interview and hiring process for engineering interns, mentored 5 interns during their 8-month internships, and managed tasks for interns using Jira.
 - **Project Management:** Led a team of two university interns to successfully integrate an ST RFID reader evaluation board with an in-house development board, utilizing the onboard cellular modem for cloud data offloading.
 <!-- - **STM32 PCBA Development:** Designed and integrated STM32U5 PCBA with electrical engineers, using STM32Cube for project setup and peripheral communication. -->
-- **Firmware Debugging:** Implemented debug control with Jlink and GDB server, successfully flashing and debugging firmware on STM32U5 PCBA.
-- **Advanced Debugging Techniques:** Utilized logic analyzers, oscilloscopes, and emulation tools like QEMU to debug and validate driver performance under various conditions.
+- **Advanced Debugging Techniques:** Utilized logic analyzers, oscilloscopes, and emulation tools like QEMU to debug and validate driver quality. Implemented debug control with JLink and GDB server, successfully flashing and debugging firmware.
 <!-- - **Middleware Porting and Build Management:** Ported supplier middleware and managed makefile build system for streamlined and consistent project builds. -->
 <!-- - **Hardware Collaboration:** Worked closely with Electrical Engineers to solve diverse problems including PCBA bring-up and hardware test automation. -->
-- **Trade Show Sales:** Generated leads in high-traffic environments, engaged potential customers in technical and high-level conversations, gathered contact information, and followed up on leads.
+<!-- - **Trade Show Sales:** Generated leads in high-traffic environments, engaged potential customers in technical and high-level conversations, gathered contact information, and followed up on leads. -->
 <!-- - **Hardware Emulation:** Modified and recompiled a fork of the QEMU source to accurately emulate the Cortex-M7 platform. -->
 <!-- - **Advanced Firmware Testing:** Intercepted real UART communication between the cellular modem and the emulated program, enabling the injection of errors in the AT command responses to test the real program's resilience to errors. -->
 
@@ -45,7 +49,7 @@ linkedin: gavinguinn
     May 2014 - July 2021
 
 - **Customer Assistance:** Assisted customers in purchasing outdoor hard goods, from personalized multi-hour outfitting to quick assistance finding items.
-- **Product Knowledge:** Utilized product information provided by brands and representatives to offer detail-oriented assistance.
+<!-- - **Product Knowledge:** Utilized product information provided by brands and representatives to offer detail-oriented assistance. -->
 - **Sales Goals:** Leveraged personal passion for hiking to develop strong customer relationships, consistently surpassing sales goals.
 
 # Other Experience
@@ -80,8 +84,8 @@ linkedin: gavinguinn
 
 # Skills
 
-| **Programming Languages**   | **Skills**                               | **Tools**                            |
-| --------------------------- | ---------------------------------------- | ------------------------------------ |
-| C, C++, Makefile, CMake     | Firmware Development, Hardware Debugging | Jlink, GDB, STM32Cube, MCUXpresso    |
-| Python, Bash                | Linux Programming, Cloud computing       | Logic Analyzers, Oscilloscopes, QEMU |
-| Java, Javascript, HTML, CSS | Web development, Public speaking         | Git, Jenkins, GitHub                 |
+| **Programming Languages**     | **Skills**                               | **Tools**                            |
+| ----------------------------- | ---------------------------------------- | ------------------------------------ |
+| C, C++, ARMv8 Assembly        | Firmware Development, Hardware Debugging | Jlink, GDB, STM32Cube, MCUXpresso    |
+| Python, Bash, Makefile, CMake | Linux Programming, Cloud computing       | Logic Analyzers, Oscilloscopes, QEMU |
+| Java, Javascript, HTML, CSS   | Web development, Public speaking         | Git, Jenkins, GitHub                 |
