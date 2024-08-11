@@ -25,19 +25,22 @@ Embedded Engineer with 3 years of experience developing production-grade C/C++ s
 
     Jan 2021 - May 2024
 
+- **Firmware Development:** Engineered robust RTOS C/C++ firmware solutions on 32-bit ARM microcontrollers. Conducted thorough unit testing and collaborated closely with the QA team to ensure high-quality firmware releases.
 - **Peripheral Driver Development**: Developed and maintained drivers for peripherals (audio, display, touch, modem, secure element, IMU) within a FreeRTOS environment, ensuring seamless hardware-software integration.
+- **Advanced Debugging Techniques:** Utilized logic analyzers, oscilloscopes, and emulation tools like QEMU to debug and validate driver quality. Implemented debug control with JLink and GDB server, successfully flashing and debugging firmware.
 - **Mentorship and Hiring:** Led the interview and selection process for five engineering interns, providing hands-on training in  firmware development and debugging to ensure they quickly became productive team members.
 - **Network Security:** Utilized TCP/IP stack and security protocols to manage secure communications, including certificate management. Developed OTA firmware updates as a key feature, ensuring reliable deployments over HTTPS.
 - **Client Engagement:** Excelled in client interactions, from cold conversations at tradeshows (CES 23/24) to in-depth meetings during international trips. Experienced in converting customer business needs to concrete development objectives.
+
 <!-- - **GUI Development:** Rendered MQTT messages into interfaces using LVGL widgets, sending responses to the cloud. -->
-- **Testing Automation:** Created a self-testing system for PCBA peripherals, automating device commissioning and ensuring readiness for shipment.
+<!-- - **Testing Automation:** Created a self-testing system for PCBA peripherals, automating device commissioning and ensuring readiness for shipment. -->
 <!-- - **Azure Debugging:** Used Azure and Python scripts to improve cloud-driven UI testing, developing extensive test cases with ChatGPT. -->
 <!-- - **Team Collaboration:** Coordinated with management and a global team across time zones. -->
 <!-- - **Time Management:** Delivered prototype hardware under tight deadlines. -->
 <!-- - **Remote Collaboration:** Used Jira, Bitbucket, and Jenkins for agile project management, version control, and continuous integration. -->
-- **Project Management:** Led a team of two university interns to successfully integrate an ST RFID reader evaluation board with an in-house development board, utilizing the onboard cellular modem for cloud data offloading.
+<!-- - **Project Management:** Led a team of two university interns to successfully integrate an ST RFID reader evaluation board with an in-house development board, utilizing the onboard cellular modem for cloud data offloading. -->
 <!-- - **STM32 PCBA Development:** Designed and integrated STM32U5 PCBA with electrical engineers, using STM32Cube for project setup and peripheral communication. -->
-- **Advanced Debugging Techniques:** Utilized logic analyzers, oscilloscopes, and emulation tools like QEMU to debug and validate driver quality. Implemented debug control with JLink and GDB server, successfully flashing and debugging firmware.
+
 <!-- - **Middleware Porting and Build Management:** Ported supplier middleware and managed makefile build system for streamlined and consistent project builds. -->
 <!-- - **Hardware Collaboration:** Worked closely with Electrical Engineers to solve diverse problems including PCBA bring-up and hardware test automation. -->
 <!-- - **Trade Show Sales:** Generated leads in high-traffic environments, engaged potential customers in technical and high-level conversations, gathered contact information, and followed up on leads. -->
