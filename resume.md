@@ -9,7 +9,7 @@ linkedin: gavinguinn
 
 # Profile
 
-Embedded Engineer with 3 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. Based in Calgary, Canada, and seeking opportunities locally, nationally, and internationally.
+Embedded Engineer with 3 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. In my spare time I enjoy spending my time skiing in the Rocky Mountains and experimenting with generative AI. Based in Calgary, Canada, and seeking opportunities locally, nationally, and internationally.
 
 # Education
 
