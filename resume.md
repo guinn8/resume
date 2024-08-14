@@ -37,6 +37,12 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 - **Network Security:** Utilized TCP/IP stack and security protocols to manage secure communications, including certificate management. Developed OTA firmware updates as a key feature, ensuring reliable deployments over HTTPS.
 - **Client Engagement:** Excelled in client interactions, from cold conversations at tradeshows (CES 23/24) to in-depth meetings during international trips. Experienced in converting customer business needs to concrete development objectives.
 
+| **Programming Languages**     | **Skills**                               | **Tools**                            |
+| ----------------------------- | ---------------------------------------- | ------------------------------------ |
+| C, C++, ARMv8 Assembly        | Firmware Development, Hardware Debugging | Jlink, GDB, STM32Cube, MCUXpresso    |
+| Python, Bash, Makefile, CMake | Linux Programming, Cloud computing       | Logic Analyzers, Oscilloscopes, QEMU |
+| Java, Javascript, HTML, CSS   | Web development, Public speaking         | Git, Jenkins, GitHub                 |
+
 ## Retail Sales Staff -- Camper’s Village
 
     May 2014 - July 2021
@@ -61,8 +67,3 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 - **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
 - **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences.
 
-| **Programming Languages**     | **Skills**                               | **Tools**                            |
-| ----------------------------- | ---------------------------------------- | ------------------------------------ |
-| C, C++, ARMv8 Assembly        | Firmware Development, Hardware Debugging | Jlink, GDB, STM32Cube, MCUXpresso    |
-| Python, Bash, Makefile, CMake | Linux Programming, Cloud computing       | Logic Analyzers, Oscilloscopes, QEMU |
-| Java, Javascript, HTML, CSS   | Web development, Public speaking         | Git, Jenkins, GitHub                 |
