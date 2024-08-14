@@ -34,14 +34,14 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 - **Peripheral Driver Development**: Developed and maintained drivers for peripherals (audio, display, touch, modem, secure element, IMU) within a FreeRTOS environment, ensuring seamless hardware-software integration.
 - **Advanced Debugging Techniques:** Utilized logic analyzers and oscilloscopes to debug bus protocols (UART, SPI, I2C, CAN). Employed emulation tools like QEMU to debug and validate driver quality.
 - **Mentorship and Hiring:** Led the interview and selection process for five engineering interns, providing hands-on training in  firmware development and debugging to ensure they quickly became productive team members.
-- **Network Security:** Utilized TCP/IP stack and security protocols to manage secure communications, including certificate management. Developed OTA firmware updates as a key feature, ensuring reliable deployments over HTTPS.
+- **Network Programming:** Utilized TCP/IP stack and security protocols to manage secure communications. Managed LTE modem integration and SIM card provisioning, ensuring robust connectivity in diverse network environments.
 - **Client Engagement:** Excelled in client interactions, from cold conversations at tradeshows (CES 23/24) to in-depth meetings during international trips. Experienced in converting customer business needs to concrete development objectives.
 
-| **Programming Languages**     | **Skills**                               | **Tools**                            |
-| ----------------------------- | ---------------------------------------- | ------------------------------------ |
-| C, C++, ARMv8 Assembly        | Firmware Development, Hardware Debugging | Jlink, GDB, STM32Cube, MCUXpresso    |
-| Python, Bash, Makefile, CMake | Linux Programming, Cloud computing       | Logic Analyzers, Oscilloscopes, QEMU |
-| Java, Javascript, HTML, CSS   | Web development, Public speaking         | Git, Jenkins, GitHub                 |
+| **Category**         | **Skills**                                       | **Tools / Libraries**                       |
+| -------------------- | ------------------------------------------------ | ------------------------------------------- |
+| Firmware developer | C, C++, ARMv8 Assembly, Makefile, CMake          | JLink, GDB, STM32Cube, MCUXpresso |
+| Hardware expert  | Schematic reading, Protocols (UART, I2C, SPI) | Logic analyzer, Oscilloscope, QEMU          |
+| Software developer| Python, Bash, Java, Javascript, HTML, CSS        | Git, Jenkins, GitHub, Azure, Wireshark      |
 
 ## Retail Sales Staff -- Camper’s Village
 
@@ -66,4 +66,3 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 - **High-Performance Compute:** Developed scalable and parallel algorithms in C and OpenMP, effectively leveraging an 800GB RAM, 80-thread research cluster to optimize the computation of Aliquot sequences.
 - **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
 - **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences.
-
