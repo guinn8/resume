@@ -61,8 +61,6 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 - **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
 - **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences.
 
-# Skills
-
 | **Programming Languages**     | **Skills**                               | **Tools**                            |
 | ----------------------------- | ---------------------------------------- | ------------------------------------ |
 | C, C++, ARMv8 Assembly        | Firmware Development, Hardware Debugging | Jlink, GDB, STM32Cube, MCUXpresso    |
