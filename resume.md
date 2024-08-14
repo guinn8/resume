@@ -25,37 +25,19 @@ Embedded Engineer with 3 years of experience developing production-grade C/C++ s
 
     Jan 2021 - May 2024
 
-- **Firmware Development:** Engineered robust RTOS C/C++ firmware solutions on 32-bit ARM microcontrollers. Conducted thorough unit testing and collaborated closely with the QA team to ensure high-quality firmware releases.
+- **Firmware Development:** Engineered robust RTOS C/C++ firmware solutions on 32-bit ARM microcontrollers. Professionally utilized git for version control, managed devops and releases with Jenkins.
+- **Quality Assurance:** Conducted thorough unit testing and collaborated closely with the QA team to ensure high-quality firmware releases. Collaborated with Electrical Engineers in developing firmware for hardware test fixtures.
 - **Peripheral Driver Development**: Developed and maintained drivers for peripherals (audio, display, touch, modem, secure element, IMU) within a FreeRTOS environment, ensuring seamless hardware-software integration.
-- **Advanced Debugging Techniques:** Utilized logic analyzers, oscilloscopes, and emulation tools like QEMU to debug and validate driver quality. Implemented debug control with JLink and GDB server, successfully flashing and debugging firmware.
+- **Advanced Debugging Techniques:** Utilized logic analyzers and oscilloscopes to debug bus protocols (UART, SPI, I2C, CAN). Employed emulation tools like QEMU to debug and validate driver quality.
 - **Mentorship and Hiring:** Led the interview and selection process for five engineering interns, providing hands-on training in  firmware development and debugging to ensure they quickly became productive team members.
 - **Network Security:** Utilized TCP/IP stack and security protocols to manage secure communications, including certificate management. Developed OTA firmware updates as a key feature, ensuring reliable deployments over HTTPS.
 - **Client Engagement:** Excelled in client interactions, from cold conversations at tradeshows (CES 23/24) to in-depth meetings during international trips. Experienced in converting customer business needs to concrete development objectives.
-
-<!-- - **GUI Development:** Rendered MQTT messages into interfaces using LVGL widgets, sending responses to the cloud. -->
-<!-- - **Testing Automation:** Created a self-testing system for PCBA peripherals, automating device commissioning and ensuring readiness for shipment. -->
-<!-- - **Azure Debugging:** Used Azure and Python scripts to improve cloud-driven UI testing, developing extensive test cases with ChatGPT. -->
-<!-- - **Team Collaboration:** Coordinated with management and a global team across time zones. -->
-<!-- - **Time Management:** Delivered prototype hardware under tight deadlines. -->
-<!-- - **Remote Collaboration:** Used Jira, Bitbucket, and Jenkins for agile project management, version control, and continuous integration. -->
-<!-- - **Project Management:** Led a team of two university interns to successfully integrate an ST RFID reader evaluation board with an in-house development board, utilizing the onboard cellular modem for cloud data offloading. -->
-<!-- - **STM32 PCBA Development:** Designed and integrated STM32U5 PCBA with electrical engineers, using STM32Cube for project setup and peripheral communication. -->
-
-<!-- - **Middleware Porting and Build Management:** Ported supplier middleware and managed makefile build system for streamlined and consistent project builds. -->
-<!-- - **Hardware Collaboration:** Worked closely with Electrical Engineers to solve diverse problems including PCBA bring-up and hardware test automation. -->
-<!-- - **Trade Show Sales:** Generated leads in high-traffic environments, engaged potential customers in technical and high-level conversations, gathered contact information, and followed up on leads. -->
-<!-- - **Hardware Emulation:** Modified and recompiled a fork of the QEMU source to accurately emulate the Cortex-M7 platform. -->
-<!-- - **Advanced Firmware Testing:** Intercepted real UART communication between the cellular modem and the emulated program, enabling the injection of errors in the AT command responses to test the real program's resilience to errors. -->
 
 ## Retail Sales Staff -- Camper’s Village
 
     May 2014 - July 2021
 
 - **Customer Engagement:** Expert in high service sales, engaging with customers to understand their requirements and recommend the best camping and hiking products in response.
-
-<!-- - **Customer Assistance:** Assisted customers in purchasing outdoor hard goods, from personalized multi-hour outfitting to quick assistance finding items. -->
-<!-- - **Product Knowledge:** Utilized product information provided by brands and representatives to offer detail-oriented assistance. -->
-<!-- - **Sales Goals:** Leveraged personal passion for hiking to develop strong customer relationships, consistently surpassing sales goals. -->
 
 # Other Experience
 
@@ -67,33 +49,13 @@ Embedded Engineer with 3 years of experience developing production-grade C/C++ s
 - **Stakeholder Communication:** Managed sales, from package development to payments, with outside sponsors. Facilitated regular meetings with the Computer Science Department to report on club activities.
 - **COVID-19 Adaptation:** Successfully transitioned CalgaryHacks to a remote format, leveraging Discord and Zoom for seamless event execution, communication, and judging.
 
-<!-- - **Organized CalgaryHacks 2021:** brought together over 700 participants, fostering professional growth within Calgary's tech community; led a 20-member volunteer team, ensuring seamless event execution and the distribution of $15,000 in prize money.
-- **Stakeholder Communication:** Facilitated regular meetings with the Faculty of Science and the Department of Computer Science. Developed sponsorship packages for CalgaryHacks, managed sales from initial meetings to final payments, and maintained a CRM.
-- **COVID-19 Navigation:** Successfully navigated society activities and stakeholder communications through pandemic challenges. Successfully pivoted CalgaryHacks from in-person to remote format, utilizing Discord and Zoom for enrollment, communication and Judging. -->
-<!-- - **Hackathon Link:** [Calgary Hacks 2021](https://calgary-hacks-2021.devpost.com/) -->
-<!-- - **Adapted Event Format:** Successfully pivoted from in-person to remote format, utilizing Discord for enrollment and communication. -->
-<!-- - **Efficient Judging Coordination:** Managed the judging of 93 groups via Zoom within 2 hours with a meticulous plan. -->
-<!-- - **Cold Lead Conversion:** Effectively converted cold leads into sponsors through strategic communication. -->
-
 ## Project in Theoretical Computer Science -- NSERC Undergraduate Student Research Award  
 
     Sept 2021 - Apr 2022
 
 - **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
-
 - **High-Performance Compute:** Developed scalable and parallel algorithms in C and OpenMP, effectively leveraging an 800GB RAM, 80-thread research cluster to optimize the computation of Aliquot sequences.
-
 - **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences.
-
-<!-- - **Supervised Research:**  on computational number theory, focusing on the statistical properties of Aliquot sequences.
-- **High-Performance Computing:** Utilized 800GB of RAM and 80 threads on the university's bigmem research cluster to compute Aliquot sequence properties up to 240. -->
-<!-- - **Code Optimization:** Systematically rewrote a C implementation, achieving over a tenfold increase in performance. -->
-<!-- - **Literature Synthesis:** Developed a deep understanding of existing statistical results on Aliquot sequences to extend and generalize their properties. -->
-<!-- - **System Resource Optimization:** Rewrote legacy code to utilize RAM over disk, significantly improving performance. -->
-<!-- - **Algorithmic Improvements:** Implemented memory compression algorithms, enabling higher bounds in numerical computations. -->
-<!-- - **Cluster Management:** Managed multi-day jobs on a research cluster using the SLURM scheduler. -->
-<!-- - **Parallel Programming:** Developed parallel code using OpenMP, addressing reentrancy issues with shared memory access between threads. -->
-<!-- - **Project Documentation:** [Aliquot Sequence Project](https://guinn8.github.io/aliquot/html/index.html) -->
 
 # Skills
 
