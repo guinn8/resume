@@ -37,7 +37,7 @@ Embedded Engineer with 3 years of experience developing production-grade C/C++ s
 
     May 2014 - July 2021
 
-- **Customer Engagement:** Expert in high service sales, engaging with customers to understand their requirements and recommend the best camping and hiking products in response.
+- **High Service Sales:** Engaged with customers to understand their requirements and recommend the best camping products.
 
 # Other Experience
 
