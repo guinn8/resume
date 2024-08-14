@@ -9,7 +9,9 @@ linkedin: gavinguinn
 
 # Profile
 
-Embedded Engineer with 3 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. In my spare time I enjoy spending my time skiing in the Rocky Mountains and experimenting with generative AI. Based in Calgary, Canada, and seeking opportunities locally, nationally, and internationally.
+Embedded Engineer with 3 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. In my spare time I enjoy spending my time skiing in the Rocky Mountains and experimenting with generative AI.
+
+*Based in Calgary, Canada, and seeking opportunities locally, nationally, and internationally.*
 
 # Education
 
@@ -17,7 +19,9 @@ Embedded Engineer with 3 years of experience developing production-grade C/C++ s
 
     May 2018 - May 2022
 
-**GPA:** 3.49/4.00  
+President of the Computer Science Undergraduate Society, NSERC Undergraduate Student Research Award.
+
+**GPA:** 3.49/4.00
 
 # Work Experience
 
@@ -49,12 +53,12 @@ Embedded Engineer with 3 years of experience developing production-grade C/C++ s
 - **Stakeholder Communication:** Managed sales, from package development to payments, with outside sponsors. Facilitated regular meetings with the Computer Science Department to report on club activities.
 - **COVID-19 Adaptation:** Successfully transitioned CalgaryHacks to a remote format, leveraging Discord and Zoom for seamless event execution, communication, and judging.
 
-## Project in Theoretical Computer Science -- NSERC Undergraduate Student Research Award  
+## Project in Theoretical Computer Science -- NSERC Research Award  
 
     Sept 2021 - Apr 2022
 
-- **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
 - **High-Performance Compute:** Developed scalable and parallel algorithms in C and OpenMP, effectively leveraging an 800GB RAM, 80-thread research cluster to optimize the computation of Aliquot sequences.
+- **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
 - **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences.
 
 # Skills
