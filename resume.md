@@ -51,9 +51,11 @@ Embedded Engineer with 3 years of experience developing production-grade C/C++ s
 
     May 2014 - July 2021
 
-- **Customer Assistance:** Assisted customers in purchasing outdoor hard goods, from personalized multi-hour outfitting to quick assistance finding items.
+- **Customer Engagement:** Expert in high service sales, engaging with customers to understand their requirements and recommend the best camping and hiking products in response.
+
+<!-- - **Customer Assistance:** Assisted customers in purchasing outdoor hard goods, from personalized multi-hour outfitting to quick assistance finding items. -->
 <!-- - **Product Knowledge:** Utilized product information provided by brands and representatives to offer detail-oriented assistance. -->
-- **Sales Goals:** Leveraged personal passion for hiking to develop strong customer relationships, consistently surpassing sales goals.
+<!-- - **Sales Goals:** Leveraged personal passion for hiking to develop strong customer relationships, consistently surpassing sales goals. -->
 
 # Other Experience
 
@@ -75,10 +77,16 @@ Embedded Engineer with 3 years of experience developing production-grade C/C++ s
 
     Sept 2021 - Apr 2022
 
-- **Supervised Research:** Collaborated with Dr. Michael J. Jacobson on computational number theory, focusing on the statistical properties of Aliquot sequences.
-- **High-Performance Computing:** Utilized 800GB of RAM and 80 threads on the university's bigmem research cluster to compute Aliquot sequence properties up to 240.
+- **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
+
+- **High-Performance Compute:** Developed scalable and parallel algorithms in C and OpenMP, effectively leveraging an 800GB RAM, 80-thread research cluster to optimize the computation of Aliquot sequences.
+
+- **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences. [Aliquot Sequence Project](https://guinn8.github.io/aliquot/html/index.html)
+
+<!-- - **Supervised Research:**  on computational number theory, focusing on the statistical properties of Aliquot sequences.
+- **High-Performance Computing:** Utilized 800GB of RAM and 80 threads on the university's bigmem research cluster to compute Aliquot sequence properties up to 240. -->
 <!-- - **Code Optimization:** Systematically rewrote a C implementation, achieving over a tenfold increase in performance. -->
-- **Literature Synthesis:** Developed a deep understanding of existing statistical results on Aliquot sequences to extend and generalize their properties.
+<!-- - **Literature Synthesis:** Developed a deep understanding of existing statistical results on Aliquot sequences to extend and generalize their properties. -->
 <!-- - **System Resource Optimization:** Rewrote legacy code to utilize RAM over disk, significantly improving performance. -->
 <!-- - **Algorithmic Improvements:** Implemented memory compression algorithms, enabling higher bounds in numerical computations. -->
 <!-- - **Cluster Management:** Managed multi-day jobs on a research cluster using the SLURM scheduler. -->
