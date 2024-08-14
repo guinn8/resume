@@ -63,15 +63,17 @@ Embedded Engineer with 3 years of experience developing production-grade C/C++ s
 
     Sept 2020 - Feb 2021
 
-- **Led Calgary Hacks 2021:** Coordinated a remote-first event with over 700 participants, awarding $15,000 in prize money.
+- **Organized CalgaryHacks 2021:** Led a 20-member volunteer team, bringing together over 700 participants and distributing $15,000 in prizes, fostering growth in Calgary's tech community.
+- **Stakeholder Communication:** Managed sales, from package development to payments, with outside sponsors. Facilitated regular meetings with the Computer Science Department to report on club activities.
+- **COVID-19 Adaptation:** Successfully transitioned CalgaryHacks to a remote format, leveraging Discord and Zoom for seamless event execution, communication, and judging.
+
+<!-- - **Organized CalgaryHacks 2021:** brought together over 700 participants, fostering professional growth within Calgary's tech community; led a 20-member volunteer team, ensuring seamless event execution and the distribution of $15,000 in prize money.
+- **Stakeholder Communication:** Facilitated regular meetings with the Faculty of Science and the Department of Computer Science. Developed sponsorship packages for CalgaryHacks, managed sales from initial meetings to final payments, and maintained a CRM.
+- **COVID-19 Navigation:** Successfully navigated society activities and stakeholder communications through pandemic challenges. Successfully pivoted CalgaryHacks from in-person to remote format, utilizing Discord and Zoom for enrollment, communication and Judging. -->
+<!-- - **Hackathon Link:** [Calgary Hacks 2021](https://calgary-hacks-2021.devpost.com/) -->
 <!-- - **Adapted Event Format:** Successfully pivoted from in-person to remote format, utilizing Discord for enrollment and communication. -->
 <!-- - **Efficient Judging Coordination:** Managed the judging of 93 groups via Zoom within 2 hours with a meticulous plan. -->
-- **Team Leadership:** Directed a team of 20 executives and volunteers to ensure smooth event operations.
-- **Stakeholder Communication:** Facilitated regular meetings with the Faculty of Science and the Department of Computer Science.
-- **Sponsorship Management:** Developed sponsorship packages, managed sales from initial meetings to final payments, and maintained a CRM.
 <!-- - **Cold Lead Conversion:** Effectively converted cold leads into sponsors through strategic communication. -->
-<!-- - **COVID-19 Navigation:** Successfully navigated society activities and stakeholder communications through pandemic challenges. -->
-<!-- - **Hackathon Link:** [Calgary Hacks 2021](https://calgary-hacks-2021.devpost.com/) -->
 
 ## Project in Theoretical Computer Science -- NSERC Undergraduate Student Research Award  
 
@@ -81,7 +83,7 @@ Embedded Engineer with 3 years of experience developing production-grade C/C++ s
 
 - **High-Performance Compute:** Developed scalable and parallel algorithms in C and OpenMP, effectively leveraging an 800GB RAM, 80-thread research cluster to optimize the computation of Aliquot sequences.
 
-- **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences. [Aliquot Sequence Project](https://guinn8.github.io/aliquot/html/index.html)
+- **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences.
 
 <!-- - **Supervised Research:**  on computational number theory, focusing on the statistical properties of Aliquot sequences.
 - **High-Performance Computing:** Utilized 800GB of RAM and 80 threads on the university's bigmem research cluster to compute Aliquot sequence properties up to 240. -->
