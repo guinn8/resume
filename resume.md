@@ -1,17 +1,15 @@
 ---
 name: Gavin Guinn
 address: 221 6 Ave SE, Calgary, Canada
-phone: (587) 889-9815
 email: gavinguinn1@gmail.com
 github: guinn8
 linkedin: gavinguinn
+webpage: guinn8.ca
 ---
 
 # Profile
 
-Embedded Engineer with 3 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. In my spare time I enjoy spending my time skiing in the Rocky Mountains and experimenting with generative AI.
-
-*Based in Calgary, Canada, and seeking opportunities locally, nationally, and internationally.*
+Embedded Software Engineer with 3 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. In my spare time I enjoy spending my time skiing in the Rocky Mountains and experimenting with generative AI. *Based in Calgary, Canada, and seeking opportunities locally, nationally, and internationally.*
 
 # Education
 
@@ -63,6 +61,6 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 
     Sept 2021 - Apr 2022
 
-- **High-Performance Compute:** Developed scalable and parallel algorithms in C and OpenMP, effectively leveraging an 800GB RAM, 80-thread research cluster to optimize the computation of Aliquot sequences.
 - **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
+- **High-Performance Compute:** Developed scalable and parallel algorithms in C and OpenMP, effectively leveraging an 800GB RAM, 80-thread research cluster to optimize the computation of Aliquot sequences.
 - **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences.
