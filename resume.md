@@ -35,11 +35,11 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 - **Network Programming:** Utilized TCP/IP stack and security protocols to manage secure communications. Managed LTE modem integration and SIM card provisioning, ensuring robust connectivity in diverse network environments.
 - **Client Engagement:** Excelled in client interactions, from cold conversations at tradeshows (CES 23/24) to in-depth meetings during international trips. Experienced in converting customer business needs to concrete development objectives.
 
-|                      | **Skills**                                    | **Tools / Libraries**                  |
-| -------------------- | --------------------------------------------- | -------------------------------------- |
-| *Firmware developer* | C, C++, ARMv8 Assembly, Makefile, CMake       | JLink, GDB, STM32Cube, MCUXpresso      |
-| *Hardware expert*    | Schematic reading, Protocols (UART, I2C, SPI) | Logic analyzer, Oscilloscope, QEMU     |
-| *Software developer* | Python, Bash, Java, Javascript, HTML, CSS     | Git, Jenkins, GitHub, Azure, Wireshark |
+|            | **Skills**                                    | **Tools / Libraries**                  |
+| ---------- | --------------------------------------------- | -------------------------------------- |
+| *Firmware* | C, C++, ARMv8 Assembly, Makefile, CMake       | JLink, GDB, STM32Cube, MCUXpresso      |
+| *Hardware* | Schematic reading, Protocols (UART, I2C, SPI) | Logic analyzer, Oscilloscope, QEMU     |
+| *Software* | Python, Bash, Java, Javascript, CI/CD    | Git, Jenkins, GitHub, Azure, Wireshark |
 
 ## Retail Sales Staff -- Camper’s Village
 
