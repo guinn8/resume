@@ -35,6 +35,14 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 - **Network Programming:** Utilized TCP/IP stack and security protocols to manage secure communications. Managed LTE modem integration and SIM card provisioning, ensuring robust connectivity in diverse network environments.
 - **Client Engagement:** Excelled in client interactions, from cold conversations at tradeshows (CES 23/24) to in-depth meetings during international trips. Experienced in converting customer business needs to concrete development objectives.
 
+## Research in Theoretical Computer Science -- NSERC Research Award
+
+    Sept 2021 - Apr 2022
+
+- **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
+- **High-Performance Compute:** Developed scalable and parallel algorithms in C and OpenMP, effectively leveraging an 800GB RAM, 80-thread research cluster to optimize the computation of Aliquot sequences.
+- **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences.
+
 |            | **Skills**                                    | **Tools / Libraries**                  |
 | ---------- | --------------------------------------------- | -------------------------------------- |
 | *Firmware* | C, C++, ARMv8 Assembly, Makefile, CMake       | JLink, GDB, STM32Cube, MCUXpresso      |
@@ -56,11 +64,3 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 - **Organized CalgaryHacks 2021:** Led a 20-member volunteer team, bringing together over 700 participants and distributing $15,000 in prizes, fostering growth in Calgary's tech community.
 - **Stakeholder Communication:** Managed sales, from package development to payments, with outside sponsors. Facilitated regular meetings with the Computer Science Department to report on club activities.
 - **COVID-19 Adaptation:** Successfully transitioned CalgaryHacks to a remote format, leveraging Discord and Zoom for seamless event execution, communication, and judging.
-
-## Project in Theoretical Computer Science -- NSERC Research Award  
-
-    Sept 2021 - Apr 2022
-
-- **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
-- **High-Performance Compute:** Developed scalable and parallel algorithms in C and OpenMP, effectively leveraging an 800GB RAM, 80-thread research cluster to optimize the computation of Aliquot sequences.
-- **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences.
