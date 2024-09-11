@@ -39,7 +39,7 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 
     Sept 2021 - Apr 2022
 
-- **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties and behaviors.
+- **Mathematical Research:** Studied computational number theory under  Dr. Michael J. Jacobson, using algorithms and computational methods to explore Aliquot sequences, contributing to the understanding of their statistical properties.
 - **High-Performance Compute:** Developed scalable and parallel algorithms in C and OpenMP, effectively leveraging an 800GB RAM, 80-thread research cluster to optimize the computation of Aliquot sequences.
 - **Comprehensive Documentation:** Produced a thorough undergraduate thesis and Doxygen-generated code documentation, providing a clear foundation for future research on Aliquot sequences.
 
