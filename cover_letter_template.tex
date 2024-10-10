@@ -9,10 +9,20 @@
 
 \setmainfont{TeX Gyre Heros} % You can change this to your preferred font
 
-% Left-align the address block
-\long\def\makeaddress#1{\begin{flushleft}#1\end{flushleft}}
+% Redefine styles to align address and closing to the left
+\makeatletter
+% Align address block to the left
+\def\addressstyle{\leftskip0pt\parindent0pt\raggedright}
 
-% Sender's information
+% Align closing to the left
+\renewcommand{\closing}[1]{%
+  \par\nobreak\vspace{\parskip}%
+  \stopbreaks%
+  \noindent%
+  #1,\\[2\parskip]%
+  \ifx\@empty\fromsig\else \fromsig\fi\par}
+\makeatother
+
 \address{
     \textbf{$name$} \\
     $address$ \\
@@ -23,25 +33,14 @@
 \signature{$name$}
 
 \begin{document}
-
 \begin{letter}{}
 
-% Date
 \date{$date$}
-
 \opening{Dear $recipient_name$,}
 
-% Instead of \section use \textbf or \Large for the subject heading
-\begin{flushleft}
-\Large \textbf{$subject$}
-\end{flushleft}
-\vspace{1em}
-
-% Body of the cover letter
 $body$
 
-\closing{Sincerely,}
+\closing{Sincerely}
 
 \end{letter}
-
 \end{document}

@@ -1,6 +1,6 @@
 ---
 name: Gavin Guinn
-address: "221 6 Ave, SE Unit 403, Calgary, AB"
+address: "221 6 Ave SE, Unit 403, Calgary, AB"
 email: gavinguinn1@gmail.com
 phone: "(587) 889-9815"
 date: October 3, 2024
