@@ -9,7 +9,7 @@ webpage: guinn8.ca
 
 # Profile
 
-Embedded Software Engineer with 3 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. In my spare time I enjoy skiing in the Rocky Mountains and experimenting with generative AI. *Based in Calgary, Canada, and seeking opportunities locally, nationally, and internationally.*
+Embedded Software Engineer with 4 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. In my spare time I enjoy skiing in the Rocky Mountains and experimenting with generative AI. *Based in Calgary, Canada, and seeking opportunities locally, nationally, and internationally.*
 
 # Education
 
@@ -27,12 +27,12 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 
     Jan 2021 - May 2024
 
-- **Firmware Development:** Engineered robust RTOS C/C++ firmware solutions on 32-bit ARM microcontrollers. Professionally utilized git for version control, managed devops and releases with Jenkins.
+- **Firmware Development:** Engineered robust RTOS C/C++ firmware solutions on 32-bit ARM microcontrollers. Professionally utilized Linux as a development environment and git for version control.
+- **Python Development:**  Developed automated test suites in Python to validate embedded IoT applications’ cloud interactions, ensuring reliable data transmission and secure communication. 
+- **Technical Leadership:** Led the interview and selection process for five engineering interns, providing hands-on training in  firmware development and debugging to ensure they quickly became productive team members.
+- **RTOS Development**: Developed and maintained drivers for peripherals (DAC, ADC, modem, ect.) within a FreeRTOS environment, ensuring seamless hardware-software integration.
 - **Quality Assurance:** Conducted thorough unit testing and collaborated closely with the QA team to ensure high-quality firmware releases. Collaborated with Electrical Engineers in developing firmware for hardware test fixtures.
-- **Peripheral Driver Development**: Developed and maintained drivers for peripherals (audio, display, touch, modem, secure element, IMU) within a FreeRTOS environment, ensuring seamless hardware-software integration.
-- **Advanced Debugging Techniques:** Utilized logic analyzers and oscilloscopes to debug bus protocols (UART, SPI, I2C, CAN). Employed emulation tools like QEMU to debug and validate driver quality.
-- **Mentorship and Hiring:** Led the interview and selection process for five engineering interns, providing hands-on training in  firmware development and debugging to ensure they quickly became productive team members.
-- **Network Programming:** Utilized TCP/IP stack and security protocols to manage secure communications. Managed LTE modem integration and SIM card provisioning, ensuring robust connectivity in diverse network environments.
+- **Advanced Debugging Techniques:** Expert in utilizing GDB to debug microcontrollers, often at the assembly level. Employed logic analyzers and oscilloscopes to debug digital signal protocols (UART, SPI, I2C, CAN).
 - **Client Engagement:** Excelled in client interactions, from cold conversations at tradeshows (CES 23/24) to in-depth meetings during international trips. Experienced in converting customer business needs to concrete development objectives.
 
 ## Research in Theoretical Computer Science -- NSERC Research Award
@@ -46,7 +46,7 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 |            | **Skills**                                    | **Tools / Libraries**                  |
 | ---------- | --------------------------------------------- | -------------------------------------- |
 | *Firmware* | C, C++, ARMv8 Assembly, Makefile, CMake       | JLink, GDB, STM32Cube, MCUXpresso      |
-| *Hardware* | Schematic reading, Protocols (UART, I2C, SPI) | Logic analyzer, Oscilloscope, QEMU     |
+| *Hardware* | Digital circuits, Protocols (UART, I2C, SPI) | Logic analyzer, Oscilloscope, QEMU     |
 | *Software* | Python, Bash, Java, Javascript, CI/CD    | Git, Jenkins, GitHub, Azure, Wireshark |
 
 ## Retail Sales Staff -- Camper’s Village
