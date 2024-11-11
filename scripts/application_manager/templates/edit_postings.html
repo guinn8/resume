@@ -1,0 +1,23 @@
+<!-- templates/edit_posting.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Job Posting</title>
+</head>
+<body>
+    <h1>Edit Extracted Job Posting Data</h1>
+    <form action="/save" method="post">
+        {% for field, value in data.items() %}
+            <label for="{{ field }}">{{ field.replace('_', ' ').title() }}:</label><br>
+            {% if field == 'job_description' or field == 'requirements' or field == 'benefits' %}
+                <textarea name="{{ field }}" rows="5" cols="80">{{ value }}</textarea><br><br>
+            {% else %}
+                <input type="text" name="{{ field }}" value="{{ value }}"><br><br>
+            {% endif %}
+        {% endfor %}
+        <button type="submit">Save to Database</button>
+    </form>
+</body>
+</html>

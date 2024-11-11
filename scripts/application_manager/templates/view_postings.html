@@ -1,0 +1,22 @@
+<!-- templates/view_postings.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Saved Job Postings</title>
+</head>
+<body>
+    <h1>Saved Job Postings</h1>
+    <ul>
+        {% for posting in postings %}
+            <li>
+                <a href="{{ url_for('view_posting', posting_id=posting.id) }}">
+                    {{ posting.job_title }} at {{ posting.company_name }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+    <a href="{{ url_for('index') }}">Add New Job Posting</a>
+</body>
+</html>
