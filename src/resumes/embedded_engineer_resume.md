@@ -9,7 +9,7 @@ webpage: guinn8.ca
 
 # Profile
 
-Embedded Software Engineer with 4 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. In my spare time I enjoy skiing in the Rocky Mountains and experimenting with generative AI. *Based in Calgary, Canada, and seeking opportunities locally, nationally, and internationally.*
+Embedded Software Engineer with over 3 years of experience developing production-grade C/C++ software for microcontrollers and Linux environments. Demonstrated success in leading teams, mentoring interns, and managing complex firmware projects from design to deployment. In my spare time I enjoy skiing in the Rocky Mountains and experimenting with generative AI.
 
 # Education
 
@@ -34,7 +34,7 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 - **RTOS Development**: Developed and maintained drivers for peripherals (DAC, ADC, modem, ect.) within a FreeRTOS environment, ensuring seamless hardware-software integration.
 - **Quality Assurance:** Conducted thorough unit testing and collaborated closely with the QA team to ensure high-quality firmware releases. Collaborated with Electrical Engineers in developing firmware for hardware test fixtures.
 - **Advanced Debugging Techniques:** Expert in utilizing GDB to debug microcontrollers, often at the assembly level. Employed logic analyzers and oscilloscopes to debug digital signal protocols (UART, SPI, I2C, CAN).
-<!-- - **Client Engagement:** Excelled in client interactions, from cold conversations at tradeshows (CES 23/24) to in-depth meetings during international trips. Experienced in converting customer business needs to concrete development objectives. -->
+- **Client Engagement:** Excelled in client interactions, from cold conversations at tradeshows (CES 23/24) to in-depth meetings during international trips. Experienced in converting customer business needs to concrete development objectives.
 
 ## Research in Theoretical Computer Science -- NSERC Research Award
 

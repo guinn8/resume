@@ -1,0 +1,99 @@
+Control Systems Engineer/ Analyst
+Apply
+
+locations
+    Calgary, Alberta
+
+time type
+    Full time
+
+posted on
+    Posted 7 Days Ago
+
+time left to apply
+    End Date: November 19, 2024 (6 days left to apply)
+
+job requisition id
+    JR-07392
+
+At South Bow, we do one thing, and we do it well: safely moving oil between some of the world’s most critical markets. We’re building our high-performing team with versatile thinkers who thrive on solving big challenges together. If you’re ready for a position where your skills are highly valued and your work is incredibly important, we want to meet you. Bring your talents to a new streamlined energy company, dedicated to operational, commercial and safety excellence as we pursue our critical purpose of delivering the energy people need. 
+
+
+The Opportunity
+
+In South Bow, the SCADA team is responsible for the integrity of the Supervisory Control and Data Acquisition (SCADA) systems used to monitor and control our pipelines located in Canada and the US. In close collaboration with the control center, engineering, field operations, and commercial stakeholders, this team designs, integrates and maintains highly reliable and compliant systems to protect the assets and environment, improve operational efficiency, and increase uptime. 
+
+We are looking for someone eager to learn pipeline operations, SCADA and control systems. This is a role for someone who is passionate about turning ideas into actionable improvements to our systems, is customer focused, and innovative. A dynamic individual who enjoys thoughtful conversations about problems and perfecting design but in the end knows that what matters is delivering highly reliable solutions. This individual collaborates and communicates effectively with a diverse team of experts and novices, has a keen focus on technical details and is forward thinking. Has demonstrated ability to create solutions from ideation to experimentation to delivery with a bias for action and no fear of failure.
+ 
+
+What Will You Do
+
+•    Interface with stakeholders to translate business requirements into functional requirements of SCADA and control systems.
+•    Develop, perform, accept factory acceptance tests, site acceptance tests, and commissioning activities
+•    Manage work assignments through Management of Change (MOC) for Control Room Management (CRM)
+•    Review and implement integrity plans for lifecycle management of SCADA and related real-time systems
+•    Review and maintain specifications, procedures and standards for SCADA systems
+•    Collaborate with project teams to assure standards are met and projects are completed on time and on budget
+•    Contribute to effective transitions into operations and assure on-going sustainability of systems
+
+
+Minimum Qualifications
+•    Bachelor's degree, certifications or equivalent experience in computer science, engineering, or related field
+•    2+ years of relevant experience
+•    Excellent communication, collaboration, and customer relations skills
+•    Excellent organizational and planning skills and can manage competing priorities under tight deadlines
+•    Proven track record of delivering innovative solutions and leading change
+•    Relentless focus on improving customer experience and intuition of all delivered solutions
+
+Preferred Qualifications
+
+Note: Applicants do not need to have the below qualifications to be considered for the role.
+
+•    Knowledge of and/or experience in SCADA, HMI, and pipeline control center operations
+•    Programming experience in at least one language, e.g. VB, C#, SQL, Python
+•    SCADA automation and measurement protocols
+•    SCADA configuration
+•    OASyS or similar software experience
+•    SCADA architectures
+•    Eligible for Professional Engineer status with APEGA (if applicable)
+
+Additional Role Requirements
+
+•    Provide 24x7 on-call support to the control center on a rotational schedule
+•    Successfully complete a security clearance/criminal record check
+•    This position may require travel across borders and as such the candidate must be able to provide applicable documentation to this effect
+ 
+
+To remain competitive, support our high-performance culture and allow for more flexibility in the way we work, we offer a hybrid work model and flexible dress code for our eligible office-based workforce.
+
+About our business
+
+South Bow's existing oil & liquids pipeline infrastructure connects Alberta crude oil supplies to U.S. refining markets in Illinois, Oklahoma, Texas and the U.S. Gulf Coast.  We remain committed to meeting the energy needs of North Americans today, while advancing our Liquids Pipelines System for the demands of the future. Connecting growing Canadian and U.S. crude oil supply to key markets, leveraging existing assets and seeking new opportunities to continue to provide our customers with access to the destinations they need.
+
+South Bow is an equal opportunity employer and participates in the E-Verify program supervised by the U.S. government.
+
+Learn more
+
+Visit us at http://SouthBow.com and connect with us on our social media channels for our latest news, employee stories, community activities, and other updates.
+
+Thank you for choosing South Bow in your career search.
+
+* Depending on qualifications, the successful candidate may be offered a position at a more appropriate level and/or ladder.
+
+* Applicants must have legal authorization to work in the country in which the position is based with no restrictions.
+
+* All positions require background screening. Some require criminal and/or credit checks to comply with regulations.
+
+* South Bow is committed to provide employment opportunities to all qualified individuals, without regard to race, religion, age, sex, color, national origin, sexual orientation, gender identity, veteran status, or disability. Accommodation for applicants with disabilities is available on request during the recruitment process. Applicants with disabilities can request accessible formats or communication supports by contacting human.resources@southbow.com.
+Join our talent community!
+
+
+If you are experiencing issues with your application, contact human.resources@southbow.com.
+
+Join our talent community to receive new job posting notifications and/or hear more about career opportunities at South Bow.
+About Us
+South Bow logo
+
+At South Bow, we do one thing, and we do it well: safely moving oil between some of the world’s most critical markets. We’re building our high-performing team with versatile thinkers who thrive on solving big challenges together.
+
+If you’re ready for a position where your skills are highly valued and your work is incredibly important, we want to meet you. Bring your talents to a new streamlined energy company, dedicated to operational, commercial and safety excellence as we pursue our critical purpose of delivering the energy people nee
