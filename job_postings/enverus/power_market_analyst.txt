@@ -1,0 +1,40 @@
+ Power Market Analyst - 24321
+
+Analytics Calgary, Alberta
+Apply
+Description
+
+Power Market Analyst
+Why YOU want this position 
+Enverus is the leading energy SaaS company delivering highly technical insights and predictive/prescriptive analytics that empower customers to make decisions that increase profit. Enverus’ innovative technologies drive production and investment strategies, enable best practices for energy and commodity trading and risk management, and reduce costs through automated processes across critical business functions. Enverus is a strategic partner to more than 6,000 customers in 50 countries. 
+ 
+We are currently seeking a highly driven Power Market Analyst to join our Power & Renewables Product team in Houston, TX, Austin, TX, Denver, CO or Calgary, AB, Canada. This role offers the opportunity to join a rapidly growing company delivering industry-leading solutions to customers in the world’s most dynamic and fastest-growing sector. The Power Market Analyst is responsible for analyzing short and mid-term power markets, leveraging internal Enverus tools to help improve our power market models and software products. Their duties include the development of metrics, dashboards, and reports to improve the data accuracy and integrity of our industry leading power trading products. This position reports to the Director of Markets with an opportunity to advance in your career at a rapid rate. 
+ 
+Performance Objectives  
+ 
+
+    Develop and maintain comprehensive benchmarks and quality standards across client facing datasets and applications including data availability, model/data accuracy, and timeliness of delivery.
+    Continuously identify, prioritize, and rectify errors, inconsistencies, and redundancies within the data.
+    Investigate and solve the underlying reasons behind data anomalies, errors, and inconsistencies in the data and services.
+    Complete QA/QC analysis on model outputs, documenting statistics and communicating if data is within an acceptable threshold. Partner with internal team to suggest new QA/QC measures to further enhance detection of poor data.
+    Work with customer success and product team to investigate and respond to client feedback.
+    Support the product team with prioritization by analyzing and interpreting large heterogeneous data sets to determine potential enhancement impacts and areas for improvement. 
+    Collaborate with Customer Success and Sales to review client questions and feedback - identify root issues and either work through responses or move to product/Engineering team
+    Assist with client calls for highly technical issues, pre- and post-sales  
+
+  
+Competitive Candidate Profile 
+
+    Experience as a power market analyst on a trading desk, utility, ISO, or asset owner is a plus;
+    Minimum 2 years of power market experience with a focus in short-term energy markets;
+    Experience with Python, SQL and/or other data analysis tools is a plus;
+    Ability to communicate effectively with development teams to accomplish project goals;
+    Strong project planning skills with the ability to prioritize and meet deadlines;
+    Understanding of agile methodologies is a plus;
+    Experience leveraging large datasets for advanced analysis; 
+    Excellent oral and written communication skills;
+    Bachelor’s degree or equivalent in education and experience;
+
+This role is eligible for: Variable Compensation
+
+Apply Apply Later 

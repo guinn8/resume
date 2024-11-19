@@ -1,0 +1,46 @@
+System Test Specialist 6 Month Term
+Calgary, Alberta
+MANUFACTURING ENGINEERING – Manufacturing Engineering /
+Contract /
+Hybrid
+About You 
+You want to work for a fast-paced company that thinks big and dreams huge. You are driven, view work as more than just a job, and are never satisfied with a project left half-done. You have a strong sense of personal ownership and responsibility for completion of objectives on time. You want to figure out why things tick which makes you tick but very little ticks you off. You want to think outside of the box and continually challenge your own limits, as well as those around you. You have a mad scientist mentality where you want to be part of the robots building robots revolution. 
+ 
+About Attabotics 
+Attabotics is the world’s first 3D robotics supply chain system for modern commerce. Inspired by the framework of ant colonies, Attabotics replaces the rows and aisles of traditional fulfillment centers with a patented storage structure and robotics shuttles that utilize both horizontal and vertical space, reducing a company’s warehouse needs by 85%. By empowering retailers to place fulfillment centers near high-density urban areas, Attabotics helps create jobs and decrease carbon emissions by closing the last-mile delivery gap. Attabotics is a TIME Magazine Most Innovative Company special mention, CNBC Disruptor, and one of Fast Company’s world’s 50 most innovative companies. Attabotics is based in Calgary, Alberta, Canada, with fulfillment centers across the United States and Canada. 
+
+The Role
+We have 6 month term opportunity for a System Test Specialist to join our team.
+
+As an up and coming System Test Specialist, you will have a critical role on the system integration test team. We will rely on your attention to detail and excellent documentation skills to describe problems and identify risks/quality issues for our robotic system. Test planning and execution will be a big part of your day along with collaborating with the product development team to understand new features and tests required. 
+Who you are
+
+        Degree in Computer Science, Mechatronics Engineering, or related field preferred 
+        2+ years of experience in a testing role 
+        Strong ability to identify, record, document, and track development issues 
+        Experience in preparing and executing test plans and proactively identifying areas for additional testing based on the deployment objectives 
+        Ability to understand and work with electro-mechanical systems; basic understanding of motors & robotics 
+        Soft skills that include strong written and oral communication, time management, self-direction, and organization 
+
+What we need
+
+        Contributions to a system test suite that includes software, robotics, UI, and other various hardware 
+        Creating test cases, test suites, & documentation to show that the design meets expectations and validating behavior at a system level 
+        Performing regression testing to ensure existing functionality works as expected 
+        Installing software, configuration of systems, creation of field facing documentation 
+        Operation of the Attabotics system which includes interacting with robotics, troubleshooting problems, and performing minor repairs 
+        Work collaboratively across the organization, including engagement with the development team, project management team, and the customer facing team 
+        Opportunities exist for task scripting, developing reports for metrics, data analysis 
+
+If this description describes you perfectly and the work environment you know you can thrive in, send us your resume as well as describe to us what you’re passionate about and we may just reach out to you. 
+ 
+Attabotics is committed to employing the best people to do the best job possible within our environment. We hire based on merit and are strongly committed to cultivating diversity as a source of excellence. Attabotics firmly believes that diverse perspectives drive innovation and business success. We embrace a wide range of differences, as they contribute to our uniqueness and strength.  
+
+Successful candidates for this position will undergo a criminal record check, and must provide proof of legal eligibility to work in the country they applied to without sponsorship.
+ 
+Attabotics promotes a corporate safety culture where employees’ health, safety & well being is number one and with the ultimate goal of establishing a zero incident work environment. 
+
+For a current listing of all our postings, please visit:
+ 
+https://jobs.lever.co/attabotics 
+ 
