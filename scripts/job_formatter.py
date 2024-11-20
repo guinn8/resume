@@ -29,14 +29,13 @@ def main():
         print("No prompt")
         exit(0)
 
-    print(f"Formatting the following posting:\n\n {prompt}")
     client = OpenAI()
 
     git_hash = get_git_hash()  # Retrieve the short Git hash
 
     try:
-        response = client.chat.completions.create(
-            model="gpt-4o",
+        response = client.beta.chat.completions.parse(
+            model="gpt-4o-2024-08-06",
             messages=[
                 {"role": "system", "content": "You are a job posting formatter."
                                               "You are tasked with converting the inputted job posting and producing a json object."
@@ -48,7 +47,7 @@ def main():
                 "tag": "job_posting",
                 "git_hash": git_hash  # Include the Git hash
             },
-            temperature=0.2,
+            temperature=0.0,
             max_tokens=2048,
             top_p=1,
             store=True,
@@ -60,9 +59,8 @@ def main():
             }
         )
 
-        import pprint
-        pprint.pprint(json.loads(response.choices[0].message.content))
-
+        json_data = json.loads(response.choices[0].message.content)
+        print(json.dumps(json_data, indent=4))
     except Exception as e:
         print(f"Error: {e}")
 

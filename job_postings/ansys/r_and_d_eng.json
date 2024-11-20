@@ -1,0 +1,36 @@
+{
+    "job_id": "15318",
+    "job_title": "R&D Engineer II",
+    "company": {
+        "name": "Ansys",
+        "description": "Ansys is a global leader in engineering simulation, helping innovative companies to deliver better products to their customers. Ansys software enables innovators across industries to push boundaries by using the predictive power of simulation.",
+        "website": "https://www.ansys.com"
+    },
+    "location": "Vancouver, BC",
+    "employment_type": "Full-time",
+    "job_description": "The R&D Engineer II contributes to the development of software products and supporting systems. In this role, the R&D Engineer II will collaborate with a team of expert professionals to understand customer requirements and accomplish development objectives. This includes the transformation and componentization of industry-leading Electronics products, and integration into an emerging Python developer ecosystem.",
+    "responsibilities": [
+        "Performs moderately complex development activities, including the design, implementation, maintenance, testing and documentation of software modules and subsystems",
+        "Understands and employs best practices",
+        "Performs moderately complex bug verification, release testing and beta support for assigned products. Researches problems discovered by QA or product support and develops solutions",
+        "Understands the marketing requirements for a product, including target environment, performance criteria and competitive issues",
+        "Works under the general supervision of a development manager"
+    ],
+    "requirements": [
+        "BS in Engineering, Computer Science, or related field with 2 years' experience or MS",
+        "Working experience with software design and development methodologies",
+        "Demonstrated experience with C++ and at least one other language"
+    ],
+    "benefits": [
+        "Opportunity to work with a global leader in engineering simulation",
+        "Collaborative and innovative work environment",
+        "Opportunities for professional growth and development"
+    ],
+    "application_instructions": "Please visit our careers page at www.ansys.com to apply for this position.",
+    "contact_information": {
+        "email": "",
+        "phone": "",
+        "apply_link": "https://www.ansys.com"
+    },
+    "additional_information": "Ansys is an S&P 500 company and a member of the NASDAQ-100. We are proud to have been recognized for various awards, including Newsweek\u2019s Most Loved Workplace globally and in the U.S., Gold Stevie Award Winner, America\u2019s Most Responsible Companies, Fast Company World Changing Ideas, and Great Place to Work Certified in multiple countries. Ansys is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics."
+}

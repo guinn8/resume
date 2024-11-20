@@ -2,49 +2,64 @@
   "name": "job_posting",
   "strict": true,
   "schema": {
-    "type": "object",
-    "properties": {
-      "job_title": {
-        "type": "string",
-        "description": "The title of the job position."
-      },
-      "company_name": {
-        "type": "string",
-        "description": "The name of the company offering the job."
-      },
-      "location": {
-        "type": "string",
-        "description": "The location where the job is based."
-      },
-      "salary": {
-        "type": "string",
-        "description": "The salary range for the job position."
-      },
-      "job_description": {
-        "type": "string",
-        "description": "A detailed description of the job responsibilities and requirements."
-      },
-      "job_type": {
-        "type": "string",
-        "description": "The type of job position (e.g., full-time, part-time, contract)."
-      },
-      "requirements": {
+    "definitions": {
+      "string_array": {
         "type": "array",
-        "description": "List of requirements or qualifications needed for the job.",
-        "items": {
-          "type": "string"
-        }
+        "items": { "type": "string" }
+      },
+      "company_info": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string", "description": "Company name." },
+          "description": { "type": "string", "description": "Company description." },
+          "website": { "type": "string", "description": "Company website URL." }
+        },
+        "required": ["name", "description", "website"],
+        "additionalProperties": false
+      },
+      "contact_info": {
+        "type": "object",
+        "properties": {
+          "email": { "type": "string", "description": "Contact email." },
+          "phone": { "type": "string", "description": "Contact phone number." },
+          "apply_link": { "type": "string", "description": "URL to apply for the job." }
+        },
+        "required": ["email", "phone", "apply_link"],
+        "additionalProperties": false
       }
     },
-    "required": [
-      "job_title",
-      "company_name",
-      "location",
-      "salary",
-      "job_description",
-      "job_type",
-      "requirements"
-    ],
+    "type": "object",
+    "properties": {
+      "job_id": { "type": "string", "description": "Unique job identifier." },
+      "job_title": { "type": "string", "description": "Title of the job position." },
+      "company": {
+        "$ref": "#/definitions/company_info"
+      },
+      "location": { "type": "string", "description": "Job location." },
+      "employment_type": { "type": "string", "description": "Employment type (e.g., full-time, part-time)." },
+      "job_description": { "type": "string", "description": "Detailed job description." },
+      "responsibilities": {
+        "$ref": "#/definitions/string_array"
+      },
+      "requirements": {
+        "$ref": "#/definitions/string_array"
+      },
+      "benefits": {
+        "$ref": "#/definitions/string_array"
+      },
+      "application_instructions": {
+        "type": "string",
+        "description": "Instructions on how to apply."
+      },
+      "contact_information": {
+        "$ref": "#/definitions/contact_info"
+      },
+      "additional_information": {
+        "type": "string",
+        "description": "Any additional relevant information."
+      }
+    },
+    "required": ["job_id", "employment_type", "requirements",  "additional_information", "contact_information", "application_instructions", "benefits", "responsibilities", "job_title", "company", "location", "job_description"],
     "additionalProperties": false
   }
 }
