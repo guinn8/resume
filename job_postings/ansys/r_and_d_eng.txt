@@ -1,57 +1,116 @@
 
-indie Semiconductor logo
-indie Semiconductor
-Embedded System Firmware Engineer 
-Toronto, ON · Reposted 10 hours ago · Over 100 potential applicants
+Ansys logo
+Ansys
+R&D Engineer II 
+Vancouver, BC · Reposted 5 days ago · Over 100 potential applicants
 Get personalized tips to stand out to hirers
 
 Find jobs where you’re a top applicant and tailor your resume with the help of AI.
 Reactivate Premium
 
 Cancel anytime, for any reason.
+People you can reach out to
+
+    University of Calgary logo
+
+University of Calgary logo
+School alumni from University of Calgary
+Meet the hiring team
+Abigail
+Abigail Zubik Abigail Zubik is verified
+3rd
+Talent Acquisition at Ansys
+Job poster
 About the job
 
-Overview
+Requisition #: 15318
 
-Do you enjoy working in a creative fast-growing entrepreneurial environment? With indie you´ll never walk alone! We place high value on our teams and pursue excellence for our employees and customers!
+Our Mission: Powering Innovation That Drives Human Advancement  
 
-indie is empowering the Autotech revolution with next generation automotive semiconductors and software platforms. We focus on edge sensors spanning multiple modalities including LiDAR, radar, ultrasound and vision for Advanced Driver Assistance Systems (ADAS), autonomous vehicles, connected car, user experience and electrification applications.
+When visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
 
-As a Software Engineer at indie, you’ll be responsible for designing, implementing, and defining validation plans for various software modules on a multi-processor system. This role is ideal for a self-motivated, problem-solver who thrives in a collaborative environment and can provide technical mentorship.
+Innovate With Ansys, Power Your Career. 
 
-Key Responsibilities
+Summary
 
-    Design, implement, and test system-level firmware features.
-    Optimize system resources and video data paths based on product use cases.
-    Integrate advanced image and video processing features (e.g., warping, computer vision) from algorithm teams.
-    Develop and maintain device drivers for the AUTOSAR stack.
-    Integrate indie’s camera processor with various system hosts and third-party middleware.
-    Create and maintain tools for both customers and developers.
-    Support customer system bring-up and troubleshoot issues as they arise.
+The R&D Engineer II contributes to the development of software products and supporting systems. In this role, the R&D Engineer II will collaborate with a team of expert professionals to
 
-Requirements
+understand customer requirements and accomplish development objectives. This includes the
 
-At indie, we value Creativity, Ownership, and Excellence. We understand that nobody is perfect; this role will provide opportunities to grow and expand your expertise.
+transformation and componentization of industry-leading Electronics products, and integration
 
-    Bachelor’s degree in Computer Engineering, Computer Science, or a related field.
-    Proficiency in C programming and debugging within RTOS environments.
-    Experience with real-time embedded systems, including threading, optimization, memory management, and interrupt handling.
-    Familiarity with the software development lifecycle.
-    Knowledge of Python as a scripting language.
-    Strong analytical and problem-solving skills.
-    Excellent verbal and written communication skills.
+into an emerging Python developer ecosystem.
 
-Preferred Skills
+Responsibilities
 
-    Experience with Board Support Packages (BSPs).
-    Understanding of I2C, UART, SPI, and Ethernet protocols.
-    Knowledge of heterogeneous multi-core systems.
-    Software development experience in automotive or other safety-critical industries.
-    Knowledge of the AUTOSAR system.
-    Familiarity with cryptographic authentications, hashing, encryption algorithms, and secure key storage technologies.
+     Performs moderately complex development activities, including the design, implementation, maintenance, testing and documentation of software modules and subsystems 
+     Understands and employs best practices 
+     Performs moderately complex bug verification, release testing and beta support for assigned products. Researches problems discovered by QA or product support and develops solutions 
+     Understands the marketing requirements for a product, including target environment, performance criteria and competitive issues 
+     Works under the general supervision of a development manager 
 
-indie Semiconductor and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law.
+Minimum Qualifications
 
-We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.
+     BS in Engineering, Computer Science, or related field with 2 years' experience or MS 
+     Working experience with software design and development methodologies 
+     Demonstrated experience with C++ and at least one other language 
 
-Concerning agencies: indie Semiconductor does not accept unsolicited resumes and will not be responsible for fees related to such. 
+Preferred Qualifications
+
+     MS in Engineering or Computer Science 
+     Experience as a software developer working with any of the following: REST, gRPC, Python, C++, C#, Jupyter Notebooks, Pandas, NumPy, AI/ML to include LLMs, GitHub 
+     Experience in a large-scale commercial software development environment 
+     Good communication and interpersonal skills 
+     Ability to learn quickly and to collaborate with others in a geographically distributed team 
+
+At Ansys, we know that changing the world takes vision, skill, and each other. We fuel new ideas, build relationships, and help each other realize our greatest potential. We are ONE Ansys. We operate on three key components: the commitments to our stakeholders, the behaviors of how we work together, and the actions of how we deliver results. Together as ONE Ansys, we are powering innovation that drives human advancement. 
+
+Our Commitments
+
+    Amaze with innovative products and solutions
+    Make our customers incredibly successful
+    Act with integrity
+    Ensure employees thrive and shareholders prosper
+
+Our Values
+
+    Adaptability: Be open, welcome what's next
+    Courage: Be courageous, move forward passionately
+    Generosity: Be generous, share, listen, serve
+    Authenticity: Be you, make us stronger
+
+Our Actions
+
+    We commit to audacious goals
+    We work seamlessly as a team
+    We demonstrate mastery
+    We deliver outstanding results
+
+INCLUSION IS AT OUR CORE 
+
+We believe diverse thinking leads to better outcomes. We are committed to creating and nurturing a workplace that fuels this by welcoming people, no matter their background, identity, or experience, to a workplace where they are valued and where diversity, inclusion, equity, and belonging thrive.
+
+Welcome What’s Next In Your Career At Ansys
+
+At Ansys, you will find yourself among the sharpest minds and most visionary leaders across the globe. Collectively we strive to change the world with innovative technology and transformational solutions. With a prestigious reputation in working with well-known, world-class companies, standards at Ansys are high — met by those willing to rise to the occasion and meet those challenges head on. Our team is passionate about pushing the limits of world-class simulation technology, empowering our customers to turn their design concepts into successful, innovative products faster and at a lower cost.
+
+At Ansys, it’s about the learning, the discovery, and the collaboration. It’s about the “what’s next” as much as the “mission accomplished.” And it’s about the melding of disciplined intellect with strategic direction and results that have, can, and do impact real people in real ways. All this is forged within a working environment built on respect, autonomy, and ethics.
+
+ 
+
+CREATING A PLACE WE’RE PROUD TO BE 
+
+Ansys is an S&P 500 company and a member of the NASDAQ-100. We are proud to have been recognized for the following more recent awards, although our list goes on: Newsweek’s Most Loved Workplace globally and in the U.S., Gold Stevie Award Winner, America’s Most Responsible Companies, Fast Company World Changing Ideas, Great Place to Work Certified (Belgium, China, Greece, France, India, Japan, Korea, Spain, Sweden, Taiwan, and U.K.).
+
+ 
+
+For more information, please visit us at www.ansys.com
+
+ 
+
+Ansys is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics.
+
+ 
+
+Ansys does not accept unsolicited referrals for vacancies, and any unsolicited referral will become the property of Ansys. Upon hire, no fee will be owed to the agency, person, or entity.
+
