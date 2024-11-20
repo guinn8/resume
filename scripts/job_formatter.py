@@ -40,7 +40,7 @@ def main():
             messages=[
                 {"role": "system", "content": "You are a job posting formatter."
                                               "You are tasked with converting the inputted job posting and producing a json object."
-                                              "The output json should be a verbatim copy all details from the input."
+                                              "The output json should carefully copy all details from the input job posting."
                                               "You will be evaluated on how well you reproduce all the relevant data from the job posting in the final json."},
                 {"role": "user", "content": prompt}
             ],

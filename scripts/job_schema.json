@@ -37,11 +37,12 @@
             "description": "The salary period (e.g., per annum, per hour)."
           }
         },
-        "required": ["amount"]
+        "required": ["amount", "currency", "period"],
+        "additionalProperties": false
       },
       "job_description": {
         "type": "array",
-        "description": "A detailed description of the job responsibilities and requirements, structured as a list.",
+        "description": "A list of job responsibilities and requirements.",
         "items": {
           "type": "string",
           "description": "A specific responsibility or requirement of the job."
@@ -50,50 +51,16 @@
       "job_type": {
         "type": "string",
         "description": "The type of job position (e.g., Full-time, Part-time, Contract)."
-      },
-      "experience_level": {
-        "type": "string",
-        "description": "The required experience level (e.g., Entry-level, Mid-level, Senior)."
-      },
-      "education_level": {
-        "type": "string",
-        "description": "The minimum education level required (e.g., High School, Bachelor's, Master's)."
-      },
-      "skills": {
-        "type": "array",
-        "description": "List of key skills required for the job.",
-        "items": {
-          "type": "string"
-        }
-      },
-      "benefits": {
-        "type": "array",
-        "description": "List of benefits offered by the employer.",
-        "items": {
-          "type": "string"
-        }
-      },
-      "application_url": {
-        "type": "string",
-        "description": "The URL where applicants can apply for the job."
-      },
-      "posting_date": {
-        "type": "string",
-        "format": "date",
-        "description": "The date when the job was posted."
-      },
-      "closing_date": {
-        "type": "string",
-        "format": "date",
-        "description": "The application deadline for the job."
       }
     },
     "required": [
       "job_title",
       "company_name",
       "location",
+      "is_remote",
       "job_description",
-      "job_type"
+      "job_type",
+      "salary"
     ],
     "additionalProperties": false
   }
