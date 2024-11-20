@@ -1,51 +1,100 @@
 {
-    "name": "job_posting",
-    "strict": true,
-    "schema": {
-      "type": "object",
-      "properties": {
-        "job_title": {
-          "type": "string",
-          "description": "The title of the job position."
-        },
-        "company_name": {
-          "type": "string",
-          "description": "The name of the company offering the job."
-        },
-        "location": {
-          "type": "string",
-          "description": "The location where the job is based."
-        },
-        "salary": {
-          "type": "string",
-          "description": "The salary range for the job position."
-        },
-        "job_description": {
-          "type": "string",
-          "description": "A detailed description of the job responsibilities and requirements."
-        },
-        "job_type": {
-          "type": "string",
-          "description": "The type of job position (e.g., full-time, part-time, contract)."
-        },
-        "requirements": {
-          "type": "array",
-          "description": "List of requirements or qualifications needed for the job.",
-          "items": {
-            "type": "string"
+  "name": "job_posting",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "job_title": {
+        "type": "string",
+        "description": "The title of the job position."
+      },
+      "company_name": {
+        "type": "string",
+        "description": "The name of the company offering the job."
+      },
+      "location": {
+        "type": "string",
+        "description": "The location where the job is based."
+      },
+      "is_remote": {
+        "type": "boolean",
+        "description": "Indicates if the position is remote."
+      },
+      "salary": {
+        "type": "object",
+        "description": "Salary information for the job position.",
+        "properties": {
+          "amount": {
+            "type": "string",
+            "description": "The salary amount or range."
+          },
+          "currency": {
+            "type": "string",
+            "description": "The currency of the salary (e.g., USD, EUR)."
+          },
+          "period": {
+            "type": "string",
+            "description": "The salary period (e.g., per annum, per hour)."
           }
+        },
+        "required": ["amount"]
+      },
+      "job_description": {
+        "type": "array",
+        "description": "A detailed description of the job responsibilities and requirements, structured as a list.",
+        "items": {
+          "type": "string",
+          "description": "A specific responsibility or requirement of the job."
         }
       },
-      "required": [
-        "job_title",
-        "company_name",
-        "location",
-        "salary",
-        "job_description",
-        "job_type",
-        "requirements"
-      ],
-      "additionalProperties": false
-    }
+      "job_type": {
+        "type": "string",
+        "description": "The type of job position (e.g., Full-time, Part-time, Contract)."
+      },
+      "experience_level": {
+        "type": "string",
+        "description": "The required experience level (e.g., Entry-level, Mid-level, Senior)."
+      },
+      "education_level": {
+        "type": "string",
+        "description": "The minimum education level required (e.g., High School, Bachelor's, Master's)."
+      },
+      "skills": {
+        "type": "array",
+        "description": "List of key skills required for the job.",
+        "items": {
+          "type": "string"
+        }
+      },
+      "benefits": {
+        "type": "array",
+        "description": "List of benefits offered by the employer.",
+        "items": {
+          "type": "string"
+        }
+      },
+      "application_url": {
+        "type": "string",
+        "description": "The URL where applicants can apply for the job."
+      },
+      "posting_date": {
+        "type": "string",
+        "format": "date",
+        "description": "The date when the job was posted."
+      },
+      "closing_date": {
+        "type": "string",
+        "format": "date",
+        "description": "The application deadline for the job."
+      }
+    },
+    "required": [
+      "job_title",
+      "company_name",
+      "location",
+      "job_description",
+      "job_type"
+    ],
+    "additionalProperties": false
   }
-  
+}
