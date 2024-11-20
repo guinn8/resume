@@ -11,15 +11,15 @@ Re: Application for System Test Specialist (6-Month Term)
 
 Dear Hiring Manager,
 
-I am excited to apply for the System Test Specialist role, with over three years of professional experience in embedded systems development I am confident in my ability to contribute to at System Integration Test team at Attabotics. In my pervious role as embedded systyems developer, part of my role was planning and executing comprehensive test plans to validate IoT products, focusing on both hardware and software integration. 
+I am thrilled to apply for the System Test Specialist role at Attabotics. With over three years of professional experience in embedded systems development, I have honed my skills in hardware-software integration and end-to-end testing. This role represents an exciting opportunity to apply my expertise to cutting-edge robotics and contribute to Attabotics’ mission of revolutionizing supply chain logistics.
 
-My commitment to responsibility is demonstrated by my experience in developing automated processes for testing hardware and flashing firmware during assembly. I took ownership to ensure each product was rigorously tested throughout the assembly process, including sub-assemblies and finished goods. This dedication has been key to maintaining high standards and delivering reliable products.
+In my previous role as an Embedded Systems Developer, I designed and executed comprehensive test plans to validate IoT products, ensuring seamless integration of sensors, GUIs, and networking components. I developed automated processes for hardware testing and firmware flashing during assembly, which significantly streamlined production and enhanced product reliability. These efforts halved testing time and minimized defects in shipped products.
 
-What excites me most about this role is the opportunity to work with cutting-edge robotics. Coming from a background in IoT product development I have worked with sensors, GUIs, and networking, this role is an opportunity to leverage my previous experience to build my skills in robotics testing. I also am passionate about the chance for my work on products that have a 'real-world' impact, improving logistics efficiency and reducing environmental impact.
+What excites me most about this role is the opportunity to leverage my experience with IoT systems to grow my skills in robotics testing. I am particularly passionate about contributing to products with tangible real-world impacts, like improving logistics efficiency to reduce environmental footprints. Attabotics’ innovative approach to robotics aligns perfectly with my enthusiasm for blending technical challenges with meaningful outcomes.
 
-In addition to my technical background, I bring strong organizational and communication skills, honed through cross-functional collaboration with hardware and software teams. I am experienced in creating customer facing documentation, troubleshooting complex systems, and proactively identifying quality issues during deployment—a skillset I believe is critical to ensuring Attabotics’ systems deliver exceptional performance.
+Beyond my technical expertise, I bring strong organizational and communication skills, honed through cross-functional collaboration with hardware, software, and QA teams. My experience in creating customer-facing documentation, troubleshooting complex systems, and proactively identifying quality issues during deployment has been integral to ensuring product success.
 
-I would welcome the opportunity to bring my technical expertise and passion for robotics to Attabotics. Thank you for considering my application, and I look forward to the opportunity to discuss how I can contribute to your team.
+Thank you for considering my application. I look forward to the possibility of contributing to your team and supporting the development of supply chain automation.
 
 Sincerely,
 Gavin Guinn

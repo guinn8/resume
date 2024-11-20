@@ -1,0 +1,51 @@
+{
+    "name": "job_posting",
+    "strict": true,
+    "schema": {
+      "type": "object",
+      "properties": {
+        "job_title": {
+          "type": "string",
+          "description": "The title of the job position."
+        },
+        "company_name": {
+          "type": "string",
+          "description": "The name of the company offering the job."
+        },
+        "location": {
+          "type": "string",
+          "description": "The location where the job is based."
+        },
+        "salary": {
+          "type": "string",
+          "description": "The salary range for the job position."
+        },
+        "job_description": {
+          "type": "string",
+          "description": "A detailed description of the job responsibilities and requirements."
+        },
+        "job_type": {
+          "type": "string",
+          "description": "The type of job position (e.g., full-time, part-time, contract)."
+        },
+        "requirements": {
+          "type": "array",
+          "description": "List of requirements or qualifications needed for the job.",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "job_title",
+        "company_name",
+        "location",
+        "salary",
+        "job_description",
+        "job_type",
+        "requirements"
+      ],
+      "additionalProperties": false
+    }
+  }
+  

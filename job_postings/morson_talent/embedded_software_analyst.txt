@@ -1,0 +1,88 @@
+
+Embedded Software Analyst
+North York, ON · Reposted 2 days ago · 67 applicants
+Get personalized tips to stand out to hirers
+
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+Reactivate Premium
+
+Cancel anytime, for any reason.
+Meet the hiring team
+Nam
+Nam B.
+3rd
+Recruitment Manager at Morson Talent
+Job poster
+About the job
+
+Location: North York, ON - Hybrid
+
+Contract Duration: 12 months with a possibility of extension
+
+Working Hours: 9-5/M-F
+
+
+Job Title: Software Analyst
+
+
+About Us
+
+We’re seeking a skilled Software Analyst to join our innovative team. In this role, you will contribute to the design, development, and testing of medium to high-complexity components of mission-critical software systems. Working closely with Senior Analysts or Technical Specialists, you’ll develop expertise in functional areas of our advanced software systems while adhering to industry-leading safety standards and design methodologies.
+
+
+Key Responsibilities
+
+Software Development:
+
+    Design, code, debug, and test software for medium-complexity or critical components.
+    Develop and execute integration tests using simulated or target hardware test environments.
+    Chair design reviews for assigned software components
+
+Requirements and Analysis:
+
+    Contribute to architectural design, algorithm refinement, and functional/non-functional requirements documentation.
+    Perform detailed impact analyses of changes across software components.
+
+Problem Solving:
+
+    Identify and resolve software defects, implementing effective solutions.
+    Conduct field testing and provide on-site engineering support when needed.
+
+Collaboration:
+
+    Work alongside the Systems Engineering team to ensure seamless integration of software with system requirements.
+    Propose scalable and sustainable solutions aligned with project phases and timelines.
+
+
+Qualifications
+
+    Bachelor’s degree in Computer Science, Engineering, or a related field.
+
+
+Experience:
+
+    Minimum 3 years of relevant experience in software development for medium to large-scale applications.
+    Hands-on experience with embedded systems programming in C/C++.
+    Proficiency in scripting languages like Perl or Ruby.
+    Familiarity with Agile methodologies and tools such as Jira, Git, Eclipse, or ClearQuest.
+
+
+Technical Skills:
+
+    Knowledge of software development environments (e.g., Microsoft Visual Studio).
+    Understanding of railway signaling techniques, including SelTrac CBTC (preferred).
+    Intermediate expertise in modeling, simulation, and working with operating systems such as Windows, Linux, and Unix.
+    Practical experience with requirements management tools like DOORS.
+
+
+Desired Skills
+
+    Strong analytical skills for diagnosing issues using field logs and failure analysis.
+    Ability to work independently within a collaborative team setting.
+    Knowledge of control theory (e.g., PID, Fuzzy Logic) or graph theory is a bonus.
+
+
+Tools:
+
+    Experience with source control systems and IDEs such as Git and ClearCase.
+

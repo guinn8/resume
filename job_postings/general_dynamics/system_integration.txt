@@ -1,0 +1,61 @@
+
+System Integration, Verification & Validation (Junior)
+
+ID
+    REF477A
+
+    Calgary, AB, CA
+
+Category
+    Engineering
+
+Employment Type
+    Full-time
+
+Hiring Company
+    General Dynamics Mission Systems–Canada
+
+Apply Now
+Company Description
+
+At General Dynamics Mission Systems–Canada, our focus extends beyond engineering technology solutions—we are dedicated to cultivating careers. Our mission is to establish a workplace that thrives on diversity, where your beliefs, cultural background, experiences, and ideas are valued and contribute to our collective strength. If you seek a purpose-driven career solving some of the world’s most critical problems, alongside some of the brightest engineering minds, your application is welcome. Join a community where your unique perspective propels innovation.
+Job Description
+
+We are a smart team of doers that work passionately to ensure our systems work as specified and will transform our Canadian Army’s experiences. We are currently looking for an Junior Systems Integration, Verification and Validation Engineering Analyst to join our Mobile Domain team. You will work as part of a multi-disciplined engineering team that has adopted an Agile framework, so you will take part in Scrum events, Sprint reviews, and work collaboratively with our program teams and customers. This position is based on-site at our Calgary facility.
+
+In this role, no two days are the same! Working primarily in a lab environment, you can expect to:
+
+    Develop test cases and procedures, and test methods for system verification tests
+    Innovate with test methods, create automated test programs, and design and participate in validation tests in the lab and field
+    Set up and configure radios to develop a test case or investigate a problem.
+    You will work side-by-side with the customer in an Integrated Product Team environment and interact with software engineering, systems engineering, and management teams
+    This position will include working with Networking and routing, VLANs, Microsoft applications, radios, voice and data networks, and various automation, troubleshooting, and simulation tools (Robot Framework, Wireshark, VCCI, CORE, VBS).
+
+Qualifications
+
+    Bachelor’s degree in Systems Engineering, Computer Engineering, and Electrical Engineering, Science or equivalent in a related technical degree
+    Relevant co-op or internship experience with a focus on integration and verification, ideally at a system level (design, development, and verification)
+    Problem solving and root cause analysis skills
+    Ability to work effectively both independently and in a team environment
+    Interest in learning and working with communication systems and technology
+    Must be able to obtain and maintain Canadian Security Clearance and a positive Controlled Goods Assessment. Eligibility to work in Canada either as a Canadian Citizen or Permanent Resident.
+
+Ideally, you may also have experience in some of the following:
+
+    Experience in defining, developing, and executing system tests
+    Investigation, characterization, and resolution of complex defects
+    Knowledge of Army structure, operational concepts, and systems
+    Familiarity with Ethernet communications, networking, VLANs, Internet Protocol (IP)
+    Analysis and derivation of operational requirements into test documents
+
+Additional Information
+
+Our success is fueled by individual diversity, encouraging applications from women, members of the LGBTQ2+ community, multi-cultural backgrounds, and persons with disabilities. We will work with you around any workplace accommodation required during our application process. If you require accommodation or have questions, please contact Human Resources via recruitment@gd-ms.ca.
+
+Our comprehensive benefits package is just another reason our employees stick around, enjoy:
+
+    A Flexible Working Environment: Embracing a Hybrid work model with the choice of enjoying every other Friday off is more than a perk; it's a commitment to fostering a healthy work-life balance.
+    Personalized Career Development: Your growth within the organization is not just supported; it's valued. Anticipate regular progress reviews, access to an Educational Assistance Program, and a personalized development plan tailored to your aspirations.
+    Total Rewards Package: Consider it covered—health, dental, and beyond. Early access to a pension plan, coupled with various perks to acknowledge your contributions to the organization.
+
+Apply now to be a part of a workplace defined by who we are, and who we do it for.

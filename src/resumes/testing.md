@@ -9,7 +9,7 @@ webpage: guinn8.ca
 
 # Profile
 
-Professional with over 3 years of experience in embedded software development (C/C++), system testing, and hardware validation. Skilled in adhering to professional software QA processes to document, track, and resolve bugs, driving solutions that enhance product quality. Expertise in designing test plans, validating complex IoT systems, and automating testing processes using Python. Passionate about leveraging technical skills to improve system performance and reliability.
+Professional with over 3 years of experience in embedded software development (C/C++), system testing, and hardware validation. Skilled in adhering to software QA processes to document, track, and resolve bugs, driving solutions that enhance product quality. Expertise in designing test plans, validating complex IoT systems, and automating testing processes using Python. Passionate about leveraging technical skills to improve system performance and reliability.
 
 # Education
 
@@ -29,7 +29,7 @@ President of the Computer Science Undergraduate Society, NSERC Undergraduate Stu
 
 - **System Testing:** Designed and executed system-level test plans for embedded firmware, hardware, and user interfaces. Conducted regression testing to ensure consistent performance across updates.
 - **Firmware Development:** Built and tested robust RTOS-based firmware solutions in C/C++ for ARM microcontrollers. Debugged hardware-software interactions using tools like GDB, JLink, and logic analyzers.
-- **Quality Assurance:** Developed and executed test plans to validate circuit boards and commission assembled products. Designed comprehensive validation checklists with over 50 criteria, ensuring consistent product quality before shipment.
+- **Quality Assurance:** Developed and executed test plans to validate circuit boards and commission assembled products. Designed comprehensive validation checklists, ensuring consistent product quality before shipment.
 - **Python Development:** Customized an open-source Python project using OOP design principles for internal QA use. Developed Python scripts to unit-test network-based features of embedded devices.
 - **Debugging Electrical Systems:** Debugged digital electrical systems by analyzing schematics, troubleshooting circuits, and validating hardware. Proficient in tools like multimeters, oscilloscopes, and basic soldering techniques.
 - **GUI Design:** Led user interface development for resource-constrained embedded projects using LVGL.
