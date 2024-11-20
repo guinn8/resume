@@ -1,0 +1,33 @@
+{
+    "job_id": "SCADA-001",
+    "job_title": "SCADA System Integrator",
+    "company": {
+        "name": "Vipond Controls Ltd.",
+        "description": "Vipond Controls is a systems integrator specializing in innovative and cost-effective industrial controls for the energy industry. We pride ourselves on delivering cutting-edge solutions that help our clients reduce costs and improve operational efficiency.",
+        "website": ""
+    },
+    "location": "Calgary, AB (Hybrid Work)",
+    "employment_type": "Full-time",
+    "job_description": "We are seeking a Junior/Intermediate Controls Engineer responsible for the integration of PLCs, RTUs, and HMIs into cohesive tools for our clients. This role offers a chance to work on diverse technologies and requires a problem-solver with strong programming skills and a passion for technical challenges.",
+    "responsibilities": [
+        "Complete integration of industrial control systems: PLCs (Programmable Logic Controllers), RTUs (Remote Terminal Units), HMIs (Human-Machine Interfaces)",
+        "Develop and implement: PLC programming, HMI design, Visual Basic programming, Website/Database design",
+        "Collaborate with clients to design solutions that reduce costs and improve efficiency."
+    ],
+    "requirements": [
+        "Bachelor's Degree in Technology, Engineering, or Computer Science (preferred).",
+        "1 year in Technology Infrastructure Engineering & Analysis (preferred).",
+        "Strong programming skills.",
+        "Experience with Visual Basic, PLC programming, and HMI design.",
+        "Familiarity with web development and database design is an asset.",
+        "Good interpersonal and communication skills."
+    ],
+    "benefits": [],
+    "application_instructions": "If you thrive on technical challenges and have a background in technology, engineering, or computer science, apply today to join our dynamic team!",
+    "contact_information": {
+        "email": "",
+        "phone": "",
+        "apply_link": ""
+    },
+    "additional_information": "Vipond Controls Ltd. is committed to providing equal employment opportunities and values diversity in the workplace."
+}
