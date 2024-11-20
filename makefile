@@ -1,33 +1,62 @@
+# Define the PDF engine
 PDF_ENGINE = xelatex
 
-# Define directories
-SRC_DIR = src
-COVER_LETTERS_DIR = $(SRC_DIR)/cover_letters
-RESUMES_DIR = $(SRC_DIR)/resumes
+# Use `find` to dynamically get lists of markdown files
+LETTER_MD := $(shell find job_postings -type f -name "letter_*.md")
+RESUME_MD := $(shell find job_postings -type f -name "resume_*.md")
 
-# Collect markdown files in the new src structure
-RESUME_MD := $(wildcard $(RESUMES_DIR)/*.md)
-COVER_LETTER_MD := $(wildcard $(COVER_LETTERS_DIR)/*.md)
+# Define the corresponding PDF files
+LETTER_PDF := $(LETTER_MD:.md=.pdf)
+RESUME_PDF := $(RESUME_MD:.md=.pdf)
 
-# Define output paths for PDFs
-RESUME_PDF := $(patsubst $(RESUMES_DIR)/%.md, output/resumes/%_Gavin_Guinn_Resume.pdf, $(RESUME_MD))
-COVER_LETTER_PDF := $(patsubst $(COVER_LETTERS_DIR)/%.md, output/cover_letters/%_coverletter_gavinguinn.pdf, $(COVER_LETTER_MD))
+# Default target: build all PDFs
+all: $(LETTER_PDF) $(RESUME_PDF)
 
-# Default target
-all: $(RESUME_PDF) $(COVER_LETTER_PDF)
+# Rule to build cover letters
+job_postings/%/letter_%.pdf: job_postings/%/letter_%.md src/cover_letter_template.tex
+	@echo "Building cover letter PDF: $@"
+	pandoc $< -o $@ --pdf-engine=$(PDF_ENGINE) --template=src/cover_letter_template.tex
 
-# Build resumes
-output/resumes/%_Gavin_Guinn_Resume.pdf: $(RESUMES_DIR)/%.md $(SRC_DIR)/template.tex
-	mkdir -p $(dir $@)
-	pandoc $< -o $@ --pdf-engine=$(PDF_ENGINE) --template=$(SRC_DIR)/template.tex
+# Rule to build resumes
+job_postings/%/resume_%.pdf: job_postings/%/resume_%.md src/template.tex
+	@echo "Building resume PDF: $@"
+	pandoc $< -o $@ --pdf-engine=$(PDF_ENGINE) --template=src/template.tex
 
-# Build cover letters
-output/cover_letters/%_coverletter_gavinguinn.pdf: $(COVER_LETTERS_DIR)/%.md $(SRC_DIR)/cover_letter_template.tex
-	mkdir -p $(dir $@)
-	pandoc $< -o $@ --pdf-engine=$(PDF_ENGINE) --template=$(SRC_DIR)/cover_letter_template.tex
-
-# Clean generated files
+# Clean target
 clean:
-	rm -rf output
+	@echo "Cleaning all generated PDFs..."
+	find job_postings -type f -name "*.pdf" -delete
+	@echo "All PDFs have been removed."
+
+.PHONY: all clean
+# Define the PDF engine
+PDF_ENGINE = xelatex
+
+# Use `find` to dynamically get lists of markdown files
+LETTER_MD := $(shell find job_postings -type f -name "letter_*.md")
+RESUME_MD := $(shell find job_postings -type f -name "resume_*.md")
+
+# Define the corresponding PDF files by replacing .md with .pdf
+LETTER_PDF := $(LETTER_MD:.md=.pdf)
+RESUME_PDF := $(RESUME_MD:.md=.pdf)
+
+# Default target: build all PDFs
+all: $(LETTER_PDF) $(RESUME_PDF)
+
+# Rule to build cover letters
+$(LETTER_PDF): %.pdf: %.md src/cover_letter_template.tex
+	@echo "Building cover letter PDF: $@"
+	pandoc $< -o $@ --pdf-engine=$(PDF_ENGINE) --template=src/cover_letter_template.tex
+
+# Rule to build resumes
+$(RESUME_PDF): %.pdf: %.md src/template.tex
+	@echo "Building resume PDF: $@"
+	pandoc $< -o $@ --pdf-engine=$(PDF_ENGINE) --template=src/template.tex
+
+# Clean target
+clean:
+	@echo "Cleaning all generated PDFs..."
+	find job_postings -type f -name "*.pdf" -delete
+	@echo "All PDFs have been removed."
 
 .PHONY: all clean

@@ -1,0 +1,41 @@
+{
+    "job_id": "embedded_system_firmware_engineer_toronto",
+    "job_title": "Embedded System Firmware Engineer",
+    "company": {
+        "name": "indie Semiconductor",
+        "description": "indie Semiconductor is at the forefront of the Autotech revolution, developing next-generation automotive semiconductors and software platforms. Our focus spans edge sensors such as LiDAR, radar, ultrasound, and vision for Advanced Driver Assistance Systems (ADAS), autonomous vehicles, connected cars, user experiences, and electrification applications.",
+        "website": ""
+    },
+    "location": "Toronto, ON",
+    "employment_type": "Full-time",
+    "job_description": "As a Software Engineer, you will design, implement, and validate software modules for multi-processor systems, working collaboratively in a fast-paced and innovative environment.",
+    "responsibilities": [
+        "Design, implement, and test system-level firmware features.",
+        "Optimize system resources and video data paths for specific product use cases.",
+        "Integrate advanced image and video processing features (e.g., warping, computer vision) developed by algorithm teams.",
+        "Develop and maintain device drivers for the AUTOSAR stack.",
+        "Integrate indie\u2019s camera processors with system hosts and third-party middleware.",
+        "Create and maintain tools for customer and developer support.",
+        "Provide customer system bring-up support and troubleshoot issues."
+    ],
+    "requirements": [
+        "Bachelor\u2019s degree in Computer Engineering, Computer Science, or related field.",
+        "Proficiency in C programming and debugging in RTOS environments.",
+        "Experience with real-time embedded systems, including threading, optimization, memory management, and interrupt handling.",
+        "Familiarity with the software development lifecycle.",
+        "Knowledge of Python as a scripting language.",
+        "Strong analytical and problem-solving skills.",
+        "Excellent verbal and written communication skills."
+    ],
+    "benefits": [
+        "Diversity & Inclusion: indie Semiconductor is committed to fostering a diverse and inclusive workplace. We welcome applicants of all backgrounds, including age, ancestry, color, marital status, medical condition, disability, national origin, race, religion, sex, pregnancy, or sexual orientation, gender identity, military or veteran status.",
+        "We provide accommodations throughout the recruitment process in compliance with applicable laws."
+    ],
+    "application_instructions": "Please note that indie Semiconductor does not accept unsolicited resumes and will not be responsible for associated fees.",
+    "contact_information": {
+        "email": "recruitment@indiesemi.com",
+        "phone": "",
+        "apply_link": "mailto:recruitment@indiesemi.com"
+    },
+    "additional_information": "Reposted: 10 hours ago. Applicants: Over 100."
+}
