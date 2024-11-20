@@ -1,9 +1,12 @@
 {
   "name": "job_posting",
-  "strict": true,
   "schema": {
     "type": "object",
     "properties": {
+      "job_id": {
+        "type": "string",
+        "description": "A unique identifier for the job posting."
+      },
       "job_title": {
         "type": "string",
         "description": "The title of the job position."
@@ -12,13 +15,44 @@
         "type": "string",
         "description": "The name of the company offering the job."
       },
-      "location": {
+      "company_description": {
         "type": "string",
-        "description": "The location where the job is based."
+        "description": "A detailed description of the company."
       },
-      "is_remote": {
-        "type": "boolean",
-        "description": "Indicates if the position is remote."
+      "company_values": {
+        "type": "array",
+        "description": "A list of the company's core values.",
+        "items": {
+          "type": "string"
+        }
+      },
+      "location": {
+        "type": "object",
+        "description": "The location where the job is based.",
+        "properties": {
+          "city": {
+            "type": "string",
+            "description": "The city of the job location."
+          },
+          "state_province": {
+            "type": "string",
+            "description": "The state or province of the job location."
+          },
+          "country": {
+            "type": "string",
+            "description": "The country of the job location."
+          },
+          "postal_code": {
+            "type": "string",
+            "description": "The postal or ZIP code of the job location."
+          }
+        },
+        "required": ["city", "state_province", "country"],
+        "additionalProperties": false
+      },
+      "remote_type": {
+        "type": "string",
+        "description": "Specifies if the position is on-site, remote, or hybrid."
       },
       "salary": {
         "type": "object",
@@ -35,29 +69,74 @@
           "period": {
             "type": "string",
             "description": "The salary period (e.g., per annum, per hour)."
+          },
+          "is_negotiable": {
+            "type": "boolean",
+            "description": "Indicates if the salary is negotiable."
+          },
+          "additional_compensation": {
+            "type": "string",
+            "description": "Details about bonuses, commissions, or other compensation."
           }
         },
         "required": ["amount", "currency", "period"],
         "additionalProperties": false
       },
       "job_description": {
+        "type": "string",
+        "description": "A summary of the job role and responsibilities."
+      },
+      "responsibilities": {
         "type": "array",
-        "description": "A list of job responsibilities and requirements.",
+        "description": "A list of specific job responsibilities.",
         "items": {
-          "type": "string",
-          "description": "A specific responsibility or requirement of the job."
+          "type": "string"
+        }
+      },
+      "requirements": {
+        "type": "array",
+        "description": "A list of job requirements and qualifications.",
+        "items": {
+          "type": "string"
+        }
+      },
+      "benefits": {
+        "type": "array",
+        "description": "A list of benefits and perks offered.",
+        "items": {
+          "type": "string"
         }
       },
       "job_type": {
         "type": "string",
         "description": "The type of job position (e.g., Full-time, Part-time, Contract)."
+      },
+      "contract_duration": {
+        "type": "string",
+        "description": "Length of the contract for contract positions."
+      },
+      "working_hours": {
+        "type": "string",
+        "description": "Details on working hours or shifts."
+      },
+      "application_instructions": {
+        "type": "string",
+        "description": "Instructions on how to apply for the job."
+      },
+      "legal_statements": {
+        "type": "string",
+        "description": "Legal disclaimers or equal opportunity statements."
+      },
+      "additional_information": {
+        "type": "string",
+        "description": "Any additional information relevant to the job posting."
       }
     },
     "required": [
       "job_title",
       "company_name",
       "location",
-      "is_remote",
+      "remote_type",
       "job_description",
       "job_type",
       "salary"

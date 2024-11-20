@@ -40,7 +40,7 @@ def main():
             messages=[
                 {"role": "system", "content": "You are a job posting formatter."
                                               "You are tasked with converting the inputted job posting and producing a json object."
-                                              "The output json should carefully copy all details from the input job posting."
+                                              "The output json should carefully copy all, EACH AND EVERY detail from the input job posting."
                                               "You will be evaluated on how well you reproduce all the relevant data from the job posting in the final json."},
                 {"role": "user", "content": prompt}
             ],
@@ -48,7 +48,7 @@ def main():
                 "tag": "job_posting",
                 "git_hash": git_hash  # Include the Git hash
             },
-            temperature=1,
+            temperature=0.2,
             max_tokens=2048,
             top_p=1,
             store=True,
@@ -60,7 +60,6 @@ def main():
             }
         )
 
-        # Pretty print the response
         import pprint
         pprint.pprint(json.loads(response.choices[0].message.content))
 
