@@ -15,12 +15,12 @@ all: $(LETTER_PDF) $(RESUME_PDF)
 # Rule to build cover letters
 job_postings/%/letter_%.pdf: job_postings/%/letter_%.md src/cover_letter_template.tex
 	@echo "Building cover letter PDF: $@"
-	pandoc $< -o $@ --pdf-engine=$(PDF_ENGINE) --template=src/cover_letter_template.tex
+	@pandoc $< -o $@ --pdf-engine=$(PDF_ENGINE) --template=src/cover_letter_template.tex
 
 # Rule to build resumes
 job_postings/%/resume_%.pdf: job_postings/%/resume_%.md src/template.tex
 	@echo "Building resume PDF: $@"
-	pandoc $< -o $@ --pdf-engine=$(PDF_ENGINE) --template=src/template.tex
+	@pandoc $< -o $@ --pdf-engine=$(PDF_ENGINE) --template=src/template.tex
 
 # Clean target
 clean:
