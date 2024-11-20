@@ -16,49 +16,34 @@
         "type": "string",
         "description": "The location where the job is based."
       },
-      "is_remote": {
-        "type": "boolean",
-        "description": "Indicates if the position is remote."
-      },
       "salary": {
-        "type": "object",
-        "description": "Salary information for the job position.",
-        "properties": {
-          "amount": {
-            "type": "string",
-            "description": "The salary amount or range."
-          },
-          "currency": {
-            "type": "string",
-            "description": "The currency of the salary (e.g., USD, EUR)."
-          },
-          "period": {
-            "type": "string",
-            "description": "The salary period (e.g., per annum, per hour)."
-          }
-        },
-        "required": ["amount", "currency", "period"],
-        "additionalProperties": false
+        "type": "string",
+        "description": "The salary range for the job position."
       },
       "job_description": {
-        "type": "array",
-        "description": "A list of job responsibilities and requirements.",
-        "items": {
-          "type": "string",
-          "description": "A specific responsibility or requirement of the job."
-        }
+        "type": "string",
+        "description": "A detailed description of the job responsibilities and requirements."
       },
       "job_type": {
         "type": "string",
-        "description": "The type of job position (e.g., Full-time, Part-time, Contract)."
+        "description": "The type of job position (e.g., full-time, part-time, contract)."
+      },
+      "requirements": {
+        "type": "array",
+        "description": "List of requirements or qualifications needed for the job.",
+        "items": {
+          "type": "string"
+        }
       }
     },
     "required": [
       "job_title",
       "company_name",
       "location",
+      "salary",
       "job_description",
-      "job_type"
+      "job_type",
+      "requirements"
     ],
     "additionalProperties": false
   }
